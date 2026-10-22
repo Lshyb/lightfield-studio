@@ -1,0 +1,10 @@
+{
+  "name": "lightfield-studio",
+  "version": "1.0.0",
+  "description": "Offline 3D portrait-lighting studio with Rembrandt lighting presets",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node launch.mjs", "serve": "node server.mjs", "test": "node --test", "check": "node --check dist/app.js" }
+}

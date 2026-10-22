@@ -1,0 +1,8 @@
+runtime/
+Lightfield.exe
+*.pdb
+node_modules/
+releases/
+*.log
+.DS_Store
+Thumbs.db

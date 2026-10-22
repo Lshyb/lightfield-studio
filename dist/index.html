@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#111213">
+  <title>光场 LIGHTFIELD — 3D 人像布光工作室</title>
+  <meta name="description" content="在浏览器里搭建你的人像摄影棚。移动灯光，观察伦勃朗三角光，模拟拍摄并保存布光方案。">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23111213'/%3E%3Cpath d='M32 11 51 22v21L32 54 13 43V22Z' stroke='%23efc27d' fill='none' stroke-width='3'/%3E%3Cpath d='M32 22 41 38H23Z' fill='%23efc27d'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./style.css">
+  <script type="importmap">{"imports":{"three":"./vendor/three.module.js","three/addons/":"./vendor/"}}</script>
+</head>
+<body>
+<svg class="sprite" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs>
+  <symbol id="i-aperture" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m8.8 3.6 8.7 15.1M4 7h17M3.6 15.1l8.7-15M8.1 20.1 16.8 5M20 17H3m17.4-8.1-8.7 15"/></symbol>
+  <symbol id="i-camera" viewBox="0 0 24 24"><path d="m8 5 1.3-2h5.4L16 5h4a2 2 0 0 1 2 2v12H2V7a2 2 0 0 1 2-2Z"/><circle cx="12" cy="12" r="4"/></symbol>
+  <symbol id="i-cube" viewBox="0 0 24 24"><path d="m12 2 9 5v10l-9 5-9-5V7Zm0 10v10M3 7l9 5 9-5M7.5 4.5l9 5v5"/></symbol>
+  <symbol id="i-light" viewBox="0 0 24 24"><path d="m9 3 6 0 5 5v6l-5 5H9l-5-5V8Zm3 16v4M8 23h8"/><path d="m8 8 8 6m0-6-8 6"/></symbol>
+  <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M12 3v12m-5-5 5 5 5-5M4 15v6h16v-6"/></symbol>
+  <symbol id="i-refresh" viewBox="0 0 24 24"><path d="M20 8a8 8 0 1 0 1 7M20 2v6h-6"/></symbol>
+  <symbol id="i-grid" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 3v18m6-18v18M3 9h18M3 15h18"/></symbol>
+  <symbol id="i-expand" viewBox="0 0 24 24"><path d="M8 3H3v5m13-5h5v5M3 16v5h5m13-5v5h-5"/></symbol>
+  <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v6m0-10v1"/></symbol>
+  <symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M6 18 18 6"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></symbol>
+  <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 1v3m0 16v3M1 12h3m16 0h3M4 4l2 2m12 12 2 2M4 20l2-2M18 6l2-2"/></symbol>
+  <symbol id="i-photo" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8" cy="8" r="1.5"/><path d="m3 17 6-6 4 4 3-3 5 5"/></symbol>
+  <symbol id="i-split" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M12 3v18M6 8h3m-3 4h3m-3 4h3"/></symbol>
+  <symbol id="i-upload" viewBox="0 0 24 24"><path d="M12 16V3m-5 5 5-5 5 5M4 15v6h16v-6"/></symbol>
+</defs></svg>
+<header class="topbar">
+  <a class="brand" href="./" aria-label="光场首页"><span class="brand-mark"><svg><use href="#i-aperture"/></svg></span><b>光场<span>LIGHTFIELD</span></b><span class="brand-edition">3D STUDIO</span></a>
+  <nav class="main-nav" aria-label="主导航"><button class="nav-active" id="studioNav">工作室</button><button id="guideNav">布光指南 <span>↗</span></button><button id="galleryNav">我的拍摄 <span id="shotCount">0</span></button></nav>
+  <div class="top-actions"><span class="save-indicator" id="saveIndicator"><i></i> 已自动保存</span><button class="btn btn-outline" id="exportBtn"><svg><use href="#i-arrow"/></svg>导出方案</button></div>
+</header>
+<main>
+  <div class="page-heading"><div><div class="eyebrow">A LITTLE LIGHT. A LOT OF POSSIBILITY.</div><h1>让光，塑造人像<span>。</span></h1><p>在按下快门之前，先找到那束光。</p></div><div class="session-info"><span class="live-dot"></span> 你的私人摄影棚 <span class="session-no">STUDIO / 01</span></div></div>
+  <div class="workspace">
+    <aside class="panel lighting-panel" aria-label="灯光控制">
+      <div class="panel-title"><h2>灯光</h2><span>LIGHTING</span><button class="icon-btn" id="resetBtn" title="重置当前布光" aria-label="重置当前布光"><svg><use href="#i-refresh"/></svg></button></div>
+      <div class="light-tabs" role="tablist" aria-label="选择灯具"><button role="tab" aria-selected="true" data-light="key"><i class="light-dot key-dot"></i>主光</button><button role="tab" aria-selected="false" data-light="fill"><i class="light-dot fill-dot"></i>补光</button><button role="tab" aria-selected="false" data-light="rim"><i class="light-dot rim-dot"></i>轮廓光</button></div>
+      <div class="equipment"><div class="equipment-icon"><svg><use href="#i-light"/></svg></div><div><strong id="lightName">八角柔光箱</strong><span id="lightDesc">主光 · KEY LIGHT</span></div><button id="lightToggle" class="toggle on" role="switch" aria-checked="true" aria-label="开启当前灯具"><span></span></button></div>
+      <div class="light-controls" id="lightControls">
+        <div class="section-label">灯位 <span>POSITION</span></div>
+        <div class="control"><label for="azimuth">水平角度 <span><output id="azimuthValue">−45</output>°</span></label><input id="azimuth" type="range" min="-150" max="150" step="1"><div class="range-labels"><span>左侧 −150°</span><span>右侧 +150°</span></div></div>
+        <div class="control"><label for="elevation">俯照角度 <span><output id="elevationValue">30</output>°</span></label><input id="elevation" type="range" min="0" max="75" step="1"><div class="range-labels"><span>平视 0°</span><span>高位 75°</span></div></div>
+        <div class="control"><label for="distance">距人像 <span><output id="distanceValue">2.0</output> m</span></label><input id="distance" type="range" min="0.8" max="4" step="0.1"></div>
+        <div class="section-label separator">光质 <span>QUALITY</span></div>
+        <div class="control"><label for="power">光照强度 <span><output id="powerValue">70</output> %</span></label><input id="power" type="range" min="0" max="100" step="1"></div>
+        <div class="control"><label for="size">光源直径 <span><output id="sizeValue">60</output> cm</span></label><input id="size" type="range" min="10" max="120" step="5"><div class="range-labels"><span>硬光</span><span>柔光</span></div></div>
+        <div class="control temperature"><label for="temperature">色温 <span><output id="temperatureValue">5200</output> K</span></label><input id="temperature" type="range" min="2800" max="8000" step="100"><div class="range-labels"><span>暖色</span><span>冷色</span></div></div>
+      </div>
+      <button class="import-link" id="importBtn"><svg><use href="#i-upload"/></svg>导入布光方案</button><input type="file" id="importInput" accept=".json,application/json" hidden>
+    </aside>
+    <section class="stage-panel" aria-label="人像实时预览">
+      <div class="stage-toolbar"><div class="view-tabs"><button data-view="camera" class="active"><svg><use href="#i-camera"/></svg>相机视角</button><button data-view="scene"><svg><use href="#i-cube"/></svg>三维场景</button></div><button class="icon-btn" id="fullscreenBtn" aria-label="全屏预览" title="全屏预览"><svg><use href="#i-expand"/></svg></button></div>
+      <div class="viewport" id="viewport">
+        <div id="renderHost"></div>
+        <div class="loading-screen" id="loadingScreen"><div class="loading-aperture"></div><strong>正在点亮摄影棚</strong><span id="loadProgress">载入三维人像…</span></div>
+        <div class="viewport-meta"><span><i class="live-dot"></i><span id="renderStatus">实时预览</span></span><span id="lensBadge">85 MM / FULL FRAME</span></div>
+        <div class="viewfinder" id="viewfinder"><i></i><i></i><i></i><i></i><div class="thirds" id="thirds" hidden></div><div class="triangle-guide" id="triangleGuide" hidden><div></div><span>观察暗侧脸颊的三角光</span></div></div>
+        <div class="view-tools"><button class="icon-btn" id="gridBtn" aria-label="显示三分构图线" title="三分构图线"><svg><use href="#i-grid"/></svg></button><button class="icon-btn" id="compareBtn" aria-label="切换为均匀照明对比" title="按住对比均匀照明"><svg><use href="#i-split"/></svg></button><button class="icon-btn" id="hintBtn" aria-label="显示三角光观察提示" title="三角光观察提示"><svg><use href="#i-info"/></svg></button></div>
+        <div class="compare-label" id="compareLabel" hidden>均匀照明对比 · 松开还原</div>
+        <div class="viewport-bottom"><span id="viewHint"><span class="mouse-icon"></span>拖动旋转人像 · 滚轮调整焦距</span><button class="reset-view" id="resetViewBtn">复位视角 <span>↺</span></button></div>
+        <div class="capture-flash" id="captureFlash"></div>
+      </div>
+      <div class="camera-strip"><div class="exif-display"><span>ISO <b id="isoBadge">100</b></span><span>ƒ / <b id="apertureBadge">5.6</b></span><span><b id="shutterBadge">1/125</b> s</span></div><button id="captureBtn" class="shutter" aria-label="拍摄人像"><span></span></button><div class="shot-preview"><button id="latestShot" aria-label="打开最近拍摄"><svg><use href="#i-photo"/></svg></button><span>模拟拍摄<small>空格键快门</small></span></div></div>
+    </section>
+    <aside class="right-column">
+      <section class="panel diagram-panel"><div class="panel-title"><h2>灯位图</h2><span>TOP VIEW</span><span class="scale-label">1 m</span></div><div class="diagram-wrap"><svg id="lightDiagram" viewBox="0 0 280 236" aria-label="可拖动的俯视灯位图" role="group"><defs><pattern id="diagramGrid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#ffffff" stroke-opacity=".05" stroke-width="1"/></pattern><radialGradient id="diagramGlow"><stop stop-color="#e7ba75" stop-opacity=".13"/><stop offset="1" stop-color="#e7ba75" stop-opacity="0"/></radialGradient></defs><rect width="280" height="236" fill="url(#diagramGrid)"/><circle cx="140" cy="112" r="95" fill="url(#diagramGlow)"/><circle cx="140" cy="112" r="66" class="diagram-ring"/><circle cx="140" cy="112" r="99" class="diagram-ring"/><path d="M140 16v193M33 112h214" class="diagram-axis"/><g id="diagramLights"></g><g class="diagram-subject"><ellipse cx="140" cy="113" rx="18" ry="10" fill="#575b5a"/><ellipse cx="140" cy="108" rx="9" ry="12" fill="#a0a39d"/><path d="m137 120 3 5 3-5" fill="#a0a39d"/></g><g transform="translate(140 209)"><rect x="-11" y="-5" width="22" height="13" rx="3" fill="#6b7275"/><rect x="-6" y="-10" width="12" height="6" rx="2" fill="#8a9191"/><path d="m-6-14 6-10 6 10" stroke="#6b7275" fill="none"/></g><text x="157" y="215" class="diagram-text">相机</text><text x="140" y="145" text-anchor="middle" class="diagram-text">人像</text></svg></div><div class="diagram-caption"><span class="drag-symbol">↔</span> 拖动灯具，探索不同的光线</div></section>
+      <section class="panel camera-panel"><div class="panel-title"><h2>相机与场景</h2><span>CAMERA</span></div><div class="camera-settings"><label>焦距 <select id="focalLength"><option value="50">50 mm</option><option value="85" selected>85 mm</option><option value="105">105 mm</option></select></label><label>光圈 <select id="aperture"><option value="2.8">f / 2.8</option><option value="4">f / 4</option><option value="5.6" selected>f / 5.6</option><option value="8">f / 8</option><option value="11">f / 11</option></select></label><label>感光度 <select id="iso"><option value="100">ISO 100</option><option value="200">ISO 200</option><option value="400">ISO 400</option><option value="800">ISO 800</option></select></label><label>快门 <select id="shutterSpeed"><option value="60">1 / 60 s</option><option value="125" selected>1 / 125 s</option><option value="250">1 / 250 s</option></select></label></div><div class="control pose-control"><label for="headYaw">人像转向 <span><output id="headYawValue">0</output>°</span></label><input type="range" id="headYaw" min="-60" max="60" step="1"></div><div class="scene-options"><span>背景</span><div class="swatches" aria-label="背景颜色"><button data-bg="charcoal" class="selected" style="--swatch:#343735" aria-label="炭灰背景" title="炭灰"></button><button data-bg="olive" style="--swatch:#515344" aria-label="橄榄背景" title="橄榄"></button><button data-bg="warm" style="--swatch:#716057" aria-label="暖棕背景" title="暖棕"></button><button data-bg="slate" style="--swatch:#485966" aria-label="蓝灰背景" title="蓝灰"></button></div></div><div class="scene-options material-option"><span>人像材质</span><div class="small-segment"><button data-material="skin" class="active">肤色</button><button data-material="clay">石膏</button></div></div></section>
+    </aside>
+  </div>
+  <section class="preset-section"><div class="preset-heading"><h2>从经典开始<span>LIGHTING RECIPES</span></h2><span>一个预设，一种情绪</span></div><div class="presets" id="presets">
+    <button data-preset="rembrandt" class="preset active"><div class="preset-image"><img alt="伦勃朗光预览" id="thumb-rembrandt"><span class="preset-index">01</span></div><div class="preset-copy"><strong>伦勃朗光 <svg><use href="#i-check"/></svg></strong><span>REMBRANDT</span><p>一抹三角光，勾勒经典明暗。</p></div></button>
+    <button data-preset="loop" class="preset"><div class="preset-image"><img alt="环形光预览" id="thumb-loop"><span class="preset-index">02</span></div><div class="preset-copy"><strong>环形光 <svg><use href="#i-check"/></svg></strong><span>LOOP</span><p>轻柔鼻影，自然又有层次。</p></div></button>
+    <button data-preset="split" class="preset"><div class="preset-image"><img alt="分割光预览" id="thumb-split"><span class="preset-index">03</span></div><div class="preset-copy"><strong>分割光 <svg><use href="#i-check"/></svg></strong><span>SPLIT</span><p>一半明亮，一半留给想象。</p></div></button>
+    <button data-preset="butterfly" class="preset"><div class="preset-image"><img alt="蝴蝶光预览" id="thumb-butterfly"><span class="preset-index">04</span></div><div class="preset-copy"><strong>蝴蝶光 <svg><use href="#i-check"/></svg></strong><span>BUTTERFLY</span><p>正面高位光，雕刻面部轮廓。</p></div></button>
+  </div></section>
+  <div class="learning-note"><div class="note-icon">△</div><div><strong id="recipeTitle">伦勃朗光的秘密，在暗侧。</strong><span id="recipeTip">让鼻影与脸颊阴影相连，在暗侧眼睛下方留下一小块三角亮区。试着微调灯光角度。</span></div><button id="learnMoreBtn">伦勃朗光指南 <span>↗</span></button></div>
+</main>
+<footer><span>LIGHTFIELD <i> / </i> 光线的练习场</span><span>三维近似模拟 · 用于布光练习与拍摄规划 <button id="aboutBtn">关于</button></span></footer>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<dialog id="guideModal" class="guide-modal"><div class="modal-header"><div><div class="eyebrow">THE ART OF LIGHT</div><h2>找到暗侧的那束光。</h2></div><button class="icon-btn close-dialog" aria-label="关闭指南"><svg><use href="#i-close"/></svg></button></div><div class="guide-body"><div class="guide-hero"><div class="guide-face"><span></span></div><div><span class="guide-kicker">REMBRANDT LIGHTING</span><h3>三角光，是观察的起点。</h3><p>把主光放在人像一侧，略高于眼睛，向下照射。鼻子的投影与脸颊暗部接合后，暗侧眼睛下会留下一块三角亮区。</p></div></div><ol class="guide-steps"><li><b>01</b><div><strong>先从侧上方开始</strong><p>试用水平约 45–60°、俯照约 25–40°。这是起点，具体位置取决于脸型与转头方向。</p></div></li><li><b>02</b><div><strong>看脸，不只看角度</strong><p>慢慢移动主光，观察鼻影是否接到脸颊阴影。亮区通常不宽于眼睛、不长于鼻子。</p></div></li><li><b>03</b><div><strong>控制暗部的呼吸</strong><p>少量补光能保留暗侧细节；补光太强会冲淡三角光。增大光源，阴影边缘会更柔和。</p></div></li><li><b>04</b><div><strong>按下你的第一张快门</strong><p>空格键拍摄，在「我的拍摄」下载照片或恢复当时灯位。方案也能导出为 JSON，之后继续练习。</p></div></li></ol><div class="guide-notice">模拟说明：多点光源与阴影贴图近似柔光；相机参数联动预览亮度，不模拟景深、闪光同步或真实灯具功率。三角光需由你观察，不做自动识别。</div><div class="credits">三维人像：<a href="https://casual-effects.com/data/" target="_blank" rel="noopener">Lee Perry-Smith / Infinite Realities</a> · CC BY 3.0。渲染：<a href="https://threejs.org/" target="_blank" rel="noopener">Three.js</a> · MIT。独立布光练习工具。</div></div><button class="btn btn-accent guide-start" id="startRecipeBtn">回到摄影棚，试一试 <span>↗</span></button></dialog>
+<dialog id="galleryModal" class="gallery-modal"><div class="modal-header"><div><div class="eyebrow">YOUR CONTACT SHEET</div><h2>把光，留在这一刻。</h2></div><button class="icon-btn close-dialog" aria-label="关闭拍摄相册"><svg><use href="#i-close"/></svg></button></div><p class="gallery-sub">照片保存在当前浏览器，最多保留最近 8 张。喜欢的作品记得下载。</p><div class="gallery-grid" id="galleryGrid"></div></dialog>
+<script type="module" src="./app.js"></script>
+</body></html>

@@ -1,0 +1,19 @@
+LIGHTFIELD / 光场 — Third-party notices
+
+Three.js r170 and addons
+Copyright 2010-2024 Three.js authors. MIT License.
+Full license: vendor/THREE-LICENSE.txt
+Source: https://github.com/mrdoob/three.js/tree/r170
+
+Infinite, 3D Head Scan by Lee Perry-Smith / Infinite-Realities
+Creative Commons Attribution 3.0 Unported (CC BY 3.0).
+License: https://creativecommons.org/licenses/by/3.0/
+Original work: http://www.ir-ltd.net/infinite-3d-head-scan-released
+Based on a work at www.triplegangers.com.
+Distribution converted by Morgan McGuire and Guedis Cardenas.
+Archive: https://casual-effects.com/data/
+Bundled model and maps obtained from the Three.js r170 examples:
+https://github.com/mrdoob/three.js/tree/r170/examples/models/gltf/LeePerrySmith
+License corroboration: https://github.com/keijiro/InfiniteScan
+Adaptations in this application: mesh centering and uniform scaling,
+interactive lighting, material adjustments and rendered photo output.
