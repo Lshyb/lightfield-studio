@@ -17,7 +17,7 @@
 3. 双击 `Lightfield.exe`，也可使用 `启动光场.cmd`。
 4. 默认浏览器会打开本地摄影棚。使用期间保留「光场」启动器窗口；关闭窗口即可停止服务。
 
-Windows 便携版使用 Windows 自带的 .NET Framework 4.x 启动本地服务，无需安装 Node.js、运行 npm install、注册账号或登录 ChatGPT。
+Windows 便携版使用 Windows 自带的 .NET Framework 4.x 启动本地服务，无需安装 Node.js、运行 npm install。
 **下载完成后，首次启动也可以断网使用。** 运行环境为 Windows 10 / 11（需 .NET Framework 4.x，通常系统已自带）、支持 WebGL 2 的现代浏览器和显卡。
 
 ### macOS / Linux / Windows：源码版
