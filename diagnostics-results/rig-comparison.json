@@ -1,0 +1,30 @@
+{
+  "male": {
+    "before": {
+      "maxShoulderDisplacement": 0.027580383938976605,
+      "witness": {
+        "rest": [
+          0.3008219301700592,
+          -0.15086112916469574,
+          -0.21076275408267975
+        ],
+        "posed": [
+          0.27955503752953537,
+          -0.15086112663568899,
+          -0.22832398569204546
+        ]
+      }
+    },
+    "after": {
+      "maxShoulderDisplacement": 0
+    }
+  },
+  "female": {
+    "before": {
+      "maxShoulderDisplacement": 0
+    },
+    "after": {
+      "maxShoulderDisplacement": 0
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "male": {
+    "posteriorCageVerticesMoved": 173,
+    "maxLocalCorrection": 0.14500001728817394,
+    "shoulderRimVerticesMoved": 56,
+    "shoulderPatchFaces": 72,
+    "cropClosureFaces": 1,
+    "protectedFaceCageVertices": 878,
+    "subdivisionLevels": [
+      [
+        "Portrait surface refinement",
+        2
+      ]
+    ]
+  },
+  "female": {
+    "posteriorCageVerticesMoved": 0,
+    "maxLocalCorrection": 0,
+    "shoulderRimVerticesMoved": 0,
+    "shoulderPatchFaces": 0,
+    "cropClosureFaces": 1,
+    "protectedFaceCageVertices": 9000,
+    "subdivisionLevels": [
+      [
+        "Portrait surface refinement",
+        1
+      ]
+    ]
+  }
+}

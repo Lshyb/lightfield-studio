@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "preset": "custom",
+  "selected": "key",
+  "solo": "none",
+  "lights": {
+    "key": {
+      "enabled": true,
+      "azimuth": -28,
+      "elevation": 24,
+      "distance": 2,
+      "power": 70,
+      "size": 100,
+      "temperature": 5200
+    },
+    "fill": {
+      "enabled": true,
+      "azimuth": 35,
+      "elevation": 10,
+      "distance": 2.6,
+      "power": 29.575000000000003,
+      "size": 100,
+      "temperature": 5600
+    },
+    "rim": {
+      "enabled": false,
+      "azimuth": 135,
+      "elevation": 25,
+      "distance": 2,
+      "power": 50,
+      "size": 40,
+      "temperature": 6000
+    }
+  },
+  "camera": {
+    "focalLength": 105,
+    "aperture": 5.6,
+    "iso": 100,
+    "shutterSpeed": 125
+  },
+  "headYaw": 0,
+  "headPitch": 0,
+  "headRoll": 0,
+  "background": "charcoal",
+  "material": "skin",
+  "subject": "male",
+  "hair": {
+    "style": "none",
+    "color": "dark"
+  },
+  "environment": {
+    "ambient": 3.5,
+    "backgroundEV": 0,
+    "exposureEV": -0.3
+  },
+  "framing": {
+    "aspect": "4:5",
+    "shiftX": 0,
+    "shiftY": 0
+  }
+}

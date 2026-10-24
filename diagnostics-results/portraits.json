@@ -1,0 +1,2094 @@
+{
+  "male": [
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.2192577678478733,
+        "singular": 0,
+        "worstVertex": {
+          "index": 27911,
+          "position": [
+            0.18724778294563293,
+            -0.10481179505586624,
+            -0.1701781451702118
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 8519,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.4473237645856709,
+        "singular": 0,
+        "worstVertex": {
+          "index": 27911,
+          "position": [
+            0.18724778294563293,
+            -0.10481179505586624,
+            -0.1701781451702118
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 8690,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.5388831304230604,
+        "singular": 0,
+        "worstVertex": {
+          "index": 28574,
+          "position": [
+            -0.04284097999334335,
+            -0.11188587546348572,
+            0.028316903859376907
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 9114,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.21671060938500342,
+        "singular": 0,
+        "worstVertex": {
+          "index": 27909,
+          "position": [
+            0.1818627268075943,
+            -0.10581739991903305,
+            -0.18897214531898499
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 9371,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.4460455042604795,
+        "singular": 0,
+        "worstVertex": {
+          "index": 27907,
+          "position": [
+            0.1728486865758896,
+            -0.09710704535245895,
+            -0.18092623353004456
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 9378,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.39248475296892105,
+        "singular": 0,
+        "worstVertex": {
+          "index": 28940,
+          "position": [
+            -0.14954537153244019,
+            -0.09909328818321228,
+            -0.21726787090301514
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 9516,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.20177611343002788,
+        "singular": 0,
+        "worstVertex": {
+          "index": 14723,
+          "position": [
+            0.17778904736042023,
+            -0.10787378251552582,
+            -0.1985141932964325
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 9712,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.44273855504548204,
+        "singular": 0,
+        "worstVertex": {
+          "index": 27906,
+          "position": [
+            0.1701071709394455,
+            -0.09797278046607971,
+            -0.19017352163791656
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 9106,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.2044454586760685,
+        "singular": 0,
+        "worstVertex": {
+          "index": 28939,
+          "position": [
+            -0.1458282768726349,
+            -0.10305017977952957,
+            -0.22448572516441345
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 9025,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.7098104238394558,
+        "singular": 0,
+        "worstVertex": {
+          "index": 27548,
+          "position": [
+            0.10851158201694489,
+            -0.10242097079753876,
+            -0.039914168417453766
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 5648,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.8682197391631788,
+        "singular": 0,
+        "worstVertex": {
+          "index": 11617,
+          "position": [
+            -0.054798491299152374,
+            -0.25531500577926636,
+            0.06346573680639267
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 5672,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.7098131038271025,
+        "singular": 0,
+        "worstVertex": {
+          "index": 28542,
+          "position": [
+            -0.10851047933101654,
+            -0.10242097824811935,
+            -0.03991428017616272
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 5647,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.6510480984584933,
+        "singular": 0,
+        "worstVertex": {
+          "index": 27943,
+          "position": [
+            0.15764912962913513,
+            -0.10610207170248032,
+            -0.21726539731025696
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 5878,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.9999998255976126,
+        "singular": 0,
+        "worstVertex": {
+          "index": 27595,
+          "position": [
+            0.04728415608406067,
+            -0.15953944623470306,
+            0.012135852128267288
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 5895,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.6510482805549687,
+        "singular": 0,
+        "worstVertex": {
+          "index": 28937,
+          "position": [
+            -0.15764862298965454,
+            -0.10610207170248032,
+            -0.21726539731025696
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 5838,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.4232278266256364,
+        "singular": 0,
+        "worstVertex": {
+          "index": 5050,
+          "position": [
+            0.09037566930055618,
+            -0.16306337714195251,
+            -0.268586128950119
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 5878,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.49044873124815486,
+        "singular": 0,
+        "worstVertex": {
+          "index": 3098,
+          "position": [
+            0.07482340186834335,
+            -0.16584144532680511,
+            -0.26932957768440247
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 5914,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.4232276123885379,
+        "singular": 0,
+        "worstVertex": {
+          "index": 9904,
+          "position": [
+            -0.09037590771913528,
+            -0.16306337714195251,
+            -0.268586128950119
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 5899,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.5376590805432797,
+        "singular": 0,
+        "worstVertex": {
+          "index": 27580,
+          "position": [
+            0.043044157326221466,
+            -0.11188582330942154,
+            0.02831943705677986
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 9115,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.4473276485451946,
+        "singular": 0,
+        "worstVertex": {
+          "index": 28905,
+          "position": [
+            -0.1872469186782837,
+            -0.10481180250644684,
+            -0.1701781451702118
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 8614,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.21926160221247473,
+        "singular": 0,
+        "worstVertex": {
+          "index": 28905,
+          "position": [
+            -0.1872469186782837,
+            -0.10481180250644684,
+            -0.1701781451702118
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 8424,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.3924836669779104,
+        "singular": 0,
+        "worstVertex": {
+          "index": 27944,
+          "position": [
+            0.14954602718353271,
+            -0.09909328818321228,
+            -0.21726785600185394
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 9571,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.4460510008486003,
+        "singular": 0,
+        "worstVertex": {
+          "index": 28901,
+          "position": [
+            -0.17284810543060303,
+            -0.09710705280303955,
+            -0.18092623353004456
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 9361,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.21671374312253602,
+        "singular": 0,
+        "worstVertex": {
+          "index": 28899,
+          "position": [
+            -0.1818620264530182,
+            -0.10581739991903305,
+            -0.18897216022014618
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 9299,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.20444413148687673,
+        "singular": 0,
+        "worstVertex": {
+          "index": 27941,
+          "position": [
+            0.14582888782024384,
+            -0.10305017977952957,
+            -0.22448572516441345
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 9018,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.442743552771882,
+        "singular": 0,
+        "worstVertex": {
+          "index": 28898,
+          "position": [
+            -0.17010658979415894,
+            -0.09797278791666031,
+            -0.19017353653907776
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 9052,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.20177878676327698,
+        "singular": 0,
+        "worstVertex": {
+          "index": 5218,
+          "position": [
+            -0.17778843641281128,
+            -0.10787378996610641,
+            -0.1985141783952713
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 9704,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        35,
+        -15,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.4491733400843898,
+        "singular": 0,
+        "worstVertex": {
+          "index": 28905,
+          "position": [
+            -0.1872469186782837,
+            -0.10481180250644684,
+            -0.1701781451702118
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 6517,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        -35,
+        15,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3717,
+        "minJacobian": 0.3227571836876823,
+        "singular": 0,
+        "worstVertex": {
+          "index": 27945,
+          "position": [
+            0.17277580499649048,
+            -0.11079481244087219,
+            -0.2080550491809845
+          ]
+        }
+      },
+      "vertices": 30061,
+      "weldedVertices": 19992,
+      "triangles": 39896,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 2,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 92,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 7445,
+      "properIntersections": 0,
+      "crossingPairs": []
+    }
+  ],
+  "female": [
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.36870520854538474,
+        "singular": 0,
+        "worstVertex": {
+          "index": 2924,
+          "position": [
+            -0.017169030383229256,
+            -0.09741783142089844,
+            0.040929801762104034
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 3983,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.4174480558679885,
+        "singular": 0,
+        "worstVertex": {
+          "index": 58974,
+          "position": [
+            -0.032077398151159286,
+            -0.0911799892783165,
+            0.035971228033304214
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 3438,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.4280042951782999,
+        "singular": 0,
+        "worstVertex": {
+          "index": 11552,
+          "position": [
+            -0.04634323716163635,
+            -0.0845022201538086,
+            0.029737181961536407
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 3299,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.6031434887805641,
+        "singular": 0,
+        "worstVertex": {
+          "index": 23785,
+          "position": [
+            0.09776587039232254,
+            -0.08470766246318817,
+            -0.03333026543259621
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 3831,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.6596064402412769,
+        "singular": 0,
+        "worstVertex": {
+          "index": 58970,
+          "position": [
+            -0.03937619924545288,
+            -0.09271904081106186,
+            0.032004501670598984
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 3554,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.5570523761257871,
+        "singular": 0,
+        "worstVertex": {
+          "index": 28676,
+          "position": [
+            -0.10273338854312897,
+            -0.08448242396116257,
+            -0.10917865484952927
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 3274,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.4329508941351247,
+        "singular": 0,
+        "worstVertex": {
+          "index": 56027,
+          "position": [
+            0.09885965287685394,
+            -0.08593188971281052,
+            -0.12053625285625458
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 4179,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.5433287228322156,
+        "singular": 0,
+        "worstVertex": {
+          "index": 1481,
+          "position": [
+            0.05188281834125519,
+            -0.07769962400197983,
+            -0.15669094026088715
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 3788,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.43285231814866354,
+        "singular": 0,
+        "worstVertex": {
+          "index": 47415,
+          "position": [
+            -0.076958566904068,
+            -0.08871997892856598,
+            -0.14855332672595978
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 3565,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.6301387882282646,
+        "singular": 0,
+        "worstVertex": {
+          "index": 38743,
+          "position": [
+            0.021351376548409462,
+            -0.08848998695611954,
+            0.0415678434073925
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 1631,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.6593734042627347,
+        "singular": 0,
+        "worstVertex": {
+          "index": 7136,
+          "position": [
+            -0.00003042731259483844,
+            -0.09461768716573715,
+            0.044277481734752655
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 1533,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.6299309050441263,
+        "singular": 0,
+        "worstVertex": {
+          "index": 24866,
+          "position": [
+            -0.021418476477265358,
+            -0.08849947899580002,
+            0.04157038778066635
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 1626,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.739905159002939,
+        "singular": 0,
+        "worstVertex": {
+          "index": 7243,
+          "position": [
+            0.10914095491170883,
+            -0.09123609215021133,
+            -0.0836019441485405
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 1726,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.9999998567969625,
+        "singular": 0,
+        "worstVertex": {
+          "index": 11703,
+          "position": [
+            -0.1424608677625656,
+            -0.1550019085407257,
+            -0.06053774058818817
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 1790,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.7396696210942808,
+        "singular": 0,
+        "worstVertex": {
+          "index": 11647,
+          "position": [
+            -0.10923174768686295,
+            -0.09121871739625931,
+            -0.08360790461301804
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 1717,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.5585736604742276,
+        "singular": 0,
+        "worstVertex": {
+          "index": 56024,
+          "position": [
+            0.08605271577835083,
+            -0.08782103657722473,
+            -0.14050918817520142
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 1708,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.6961429343968288,
+        "singular": 0,
+        "worstVertex": {
+          "index": 23830,
+          "position": [
+            -0.000009313691407442093,
+            -0.09288244694471359,
+            -0.1704341471195221
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 1784,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.5583462631102349,
+        "singular": 0,
+        "worstVertex": {
+          "index": 59036,
+          "position": [
+            -0.08612138777971268,
+            -0.08780308812856674,
+            -0.1405276209115982
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 1695,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.4292896984596465,
+        "singular": 0,
+        "worstVertex": {
+          "index": 7129,
+          "position": [
+            0.04615948721766472,
+            -0.08446957170963287,
+            0.029724519699811935
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 3422,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.41800544256584155,
+        "singular": 0,
+        "worstVertex": {
+          "index": 55958,
+          "position": [
+            0.03198380768299103,
+            -0.0911666750907898,
+            0.03596401587128639
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 3480,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.36898320558417846,
+        "singular": 0,
+        "worstVertex": {
+          "index": 1439,
+          "position": [
+            0.017102472484111786,
+            -0.09741051495075226,
+            0.040925074368715286
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 4022,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.5572531322864123,
+        "singular": 0,
+        "worstVertex": {
+          "index": 27591,
+          "position": [
+            0.10264778137207031,
+            -0.08450338244438171,
+            -0.10916347801685333
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 3405,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.6601899390504065,
+        "singular": 0,
+        "worstVertex": {
+          "index": 55954,
+          "position": [
+            0.03923561051487923,
+            -0.09269831329584122,
+            0.03199351578950882
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 3671,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.6028073096323114,
+        "singular": 0,
+        "worstVertex": {
+          "index": 32299,
+          "position": [
+            -0.09793379157781601,
+            -0.08471173793077469,
+            -0.03332166373729706
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 3865,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.433006408738687,
+        "singular": 0,
+        "worstVertex": {
+          "index": 46356,
+          "position": [
+            0.07689620554447174,
+            -0.0887346863746643,
+            -0.148536816239357
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 3690,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.5432766990446328,
+        "singular": 0,
+        "worstVertex": {
+          "index": 2949,
+          "position": [
+            -0.05193628370761871,
+            -0.07769126445055008,
+            -0.15670253336429596
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 3877,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.4327079160535463,
+        "singular": 0,
+        "worstVertex": {
+          "index": 59041,
+          "position": [
+            -0.09894046187400818,
+            -0.08591045439243317,
+            -0.12055397778749466
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 4201,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        35,
+        -15,
+        15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.5289201714278855,
+        "singular": 0,
+        "worstVertex": {
+          "index": 7142,
+          "position": [
+            0.006926065310835838,
+            -0.09309166669845581,
+            0.0441867969930172
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 2293,
+      "properIntersections": 0,
+      "crossingPairs": []
+    },
+    {
+      "pose": [
+        -35,
+        15,
+        -15
+      ],
+      "maxShoulderDisplacement": 0,
+      "normalDeformation": {
+        "vertices": 3606,
+        "minJacobian": 0.5133835819326786,
+        "singular": 0,
+        "worstVertex": {
+          "index": 27590,
+          "position": [
+            0.09339828044176102,
+            -0.08696065098047256,
+            -0.13107511401176453
+          ]
+        }
+      },
+      "vertices": 63513,
+      "weldedVertices": 39464,
+      "triangles": 78044,
+      "nonFiniteVertices": 0,
+      "invalidNormals": 0,
+      "degenerateTriangles": 0,
+      "duplicateFaces": 0,
+      "normalDisagreements": 0,
+      "regionNormalDisagreements": 0,
+      "boundaryEdges": 812,
+      "openRegionEdges": 0,
+      "nonManifoldEdges": 0,
+      "candidatePairs": 2711,
+      "properIntersections": 0,
+      "crossingPairs": []
+    }
+  ]
+}

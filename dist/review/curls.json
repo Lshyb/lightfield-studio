@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "preset": "rim",
+  "selected": "key",
+  "solo": "none",
+  "lights": {
+    "key": {
+      "enabled": true,
+      "azimuth": -20,
+      "elevation": 15,
+      "distance": 2,
+      "power": 26,
+      "size": 90,
+      "temperature": 5200
+    },
+    "fill": {
+      "enabled": false,
+      "azimuth": 35,
+      "elevation": 10,
+      "distance": 2.6,
+      "power": 18,
+      "size": 100,
+      "temperature": 5600
+    },
+    "rim": {
+      "enabled": true,
+      "azimuth": 140,
+      "elevation": 20,
+      "distance": 1.7,
+      "power": 65,
+      "size": 35,
+      "temperature": 6500
+    }
+  },
+  "camera": {
+    "focalLength": 85,
+    "aperture": 5.6,
+    "iso": 100,
+    "shutterSpeed": 125
+  },
+  "headYaw": -15,
+  "headPitch": 0,
+  "headRoll": 0,
+  "background": "black",
+  "material": "skin",
+  "subject": "female",
+  "hair": {
+    "style": "curly",
+    "color": "light"
+  },
+  "environment": {
+    "ambient": 1,
+    "backgroundEV": 0,
+    "exposureEV": 0
+  },
+  "framing": {
+    "aspect": "4:5",
+    "shiftX": 0,
+    "shiftY": 0
+  }
+}

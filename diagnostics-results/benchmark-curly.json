@@ -1,0 +1,32 @@
+{
+  "gpu": "WebGL 2 hardware acceleration; device details omitted",
+  "pixelRatio": 1,
+  "width": 1987,
+  "height": 837,
+  "subject": "male",
+  "hair": "curly",
+  "surface": "skin",
+  "views": 4,
+  "cpuSubmission": [
+    {
+      "cache": false,
+      "cpuMedian": 1,
+      "draws": 25
+    },
+    {
+      "cache": true,
+      "cpuMedian": 1.5999999940395355,
+      "draws": 16
+    }
+  ],
+  "gpuTiming": [
+    {
+      "cache": false,
+      "medianMs": 27.638208
+    },
+    {
+      "cache": true,
+      "medianMs": 27.355168
+    }
+  ]
+}

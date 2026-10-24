@@ -1,0 +1,10 @@
+{
+  "male": {
+    "points": 9781,
+    "sha256": "72c4e5f1f53bed313d09f3facefe1027aa67aaa3243a45d783215725abef5e2f"
+  },
+  "female": {
+    "points": 26678,
+    "sha256": "246b4b6315fb2f5979709a358ee0fcca152a2df47ea2ff4af47daca371ffa579"
+  }
+}

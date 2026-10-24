@@ -1,0 +1,29 @@
+Hair Styles — Daniel Bystedt
+Original notice: "Daniel Bystedt. CC BY-SA license"
+Source: https://www.blender.org/download/releases/3-5/
+Download: https://mirror.blender.org/demo/geometry-nodes/hair_nodes-female_hair_styles.blend
+Official listing: https://www.blender.org/download/demo-files/#hair
+
+Version handling in this release:
+The original asset notice does not specify a version. The official website's
+default content-license policy links CC BY-SA 3.0, including its March 2023
+historical policy. See docs/ASSET_LICENSE_AUDIT.zh-CN.md for the contextual
+interpretation, evidence and limitations. We do not claim that the author
+explicitly wrote "3.0" inside the asset, and do not assign 4.0 by default.
+Policy: https://www.blender.org/about/website/
+Policy attribution: Blender Foundation — https://www.blender.org/
+License used as the documented distribution basis: https://creativecommons.org/licenses/by-sa/3.0/
+
+Adaptations by LIGHTFIELD contributors: evaluate Cyberpunk hair, Long hair main
+and Curly hair curves; sample/resample; increase density; fit roots; create tapered
+fiber meshes; adjust lengths for portrait catalogs; add lighting/material,
+collision and bounded inertial-motion support. Our hair adaptation contributions
+are offered under the BY-SA terms used for that documented distribution basis,
+not under MIT or a new noncommercial restriction. No author endorsement is implied.
+
+This notice does not relicense the independent application code (MIT),
+the male portrait (CC BY 4.0) or the female portrait (CC BY-NC-SA 4.0).
+Private composite experiments are excluded from this public package. Female hair
+preview photos are generated and cached locally on the user's computer. Public
+redistribution of combined images/models requires separate compatibility review;
+merely listing both licenses does not resolve incompatible adaptation obligations.

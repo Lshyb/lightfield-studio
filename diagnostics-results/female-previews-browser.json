@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "distinctFemalePhotos": 4,
+  "dimensions": [
+    240,
+    300
+  ],
+  "mainSettingsUnchanged": true,
+  "mainPixelsUnchanged": true,
+  "temporaryGpuContextReleased": true,
+  "noMaleFemaleImageLeak": true,
+  "reloadUsesCache": true,
+  "blockedStorageStillWorks": true,
+  "errors": [],
+  "externalRequests": [],
+  "photos": [
+    {
+      "style": "none",
+      "sha256": "076803583898bd56bdd94df2e568db7e856e780e4791303d9ff17b4e1913672c"
+    },
+    {
+      "style": "short",
+      "sha256": "de9bcd1ee9c6a518676fbb5a8831989db61085b5dfc52ae39311fa5bc1ca3911"
+    },
+    {
+      "style": "bob",
+      "sha256": "a61b4a8cb6101c8c5045df25371c0d8dcdde1023487cfb7f2dd873b5d56e46a4"
+    },
+    {
+      "style": "curly",
+      "sha256": "823286ce6f767afe8d4a899a4331fc9c8270b8936aeba7700f93c88a6d3ebd7f"
+    }
+  ],
+  "scope": "Photos saved only in local validation output, never in public assets or release attachments"
+}

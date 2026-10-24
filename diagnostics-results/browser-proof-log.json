@@ -1,0 +1,114 @@
+[
+  {
+    "file": "after-male-neutral.png",
+    "status": "就绪 · male · clay · 姿态 0,0,0 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 8 · Triangles 168672 · Geometries 2 · CPU submit 1.1 ms · 帧 4 · 稳定"
+  },
+  {
+    "file": "after-male-turn.png",
+    "status": "就绪 · male · clay · 姿态 60,0,0 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 8 · Triangles 168672 · Geometries 2 · CPU submit 0.6 ms · 帧 9 · 稳定"
+  },
+  {
+    "file": "after-male-right-turn.png",
+    "status": "就绪 · male · clay · 姿态 -60,0,0 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 8 · Triangles 168672 · Geometries 2 · CPU submit 1.4 ms · 帧 14 · 稳定"
+  },
+  {
+    "file": "after-male-combined.png",
+    "status": "就绪 · male · clay · 姿态 35,-15,15 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 8 · Triangles 168672 · Geometries 2 · CPU submit 0.6 ms · 帧 14 · 稳定"
+  },
+  {
+    "file": "after-female-neutral.png",
+    "status": "就绪 · female · clay · 姿态 0,0,0 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 8 · Triangles 324208 · Geometries 4 · CPU submit 0.2 ms · 帧 27 · 稳定"
+  },
+  {
+    "file": "after-female-turn.png",
+    "status": "就绪 · female · clay · 姿态 60,0,0 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 8 · Triangles 324208 · Geometries 4 · CPU submit 0.6 ms · 帧 33 · 稳定"
+  },
+  {
+    "file": "after-female-right-turn.png",
+    "status": "就绪 · female · clay · 姿态 -60,0,0 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 8 · Triangles 324208 · Geometries 4 · CPU submit 0.5 ms · 帧 37 · 稳定"
+  },
+  {
+    "file": "after-female-combined.png",
+    "status": "就绪 · female · clay · 姿态 35,-15,15 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 8 · Triangles 324208 · Geometries 4 · CPU submit 0.7 ms · 帧 39 · 稳定"
+  },
+  {
+    "file": "after-male-wire.png",
+    "status": "就绪 · male · wire · 姿态 0,0,0 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 8 · Triangles 0 · Geometries 2 · CPU submit 0.7 ms · 帧 25 · 稳定"
+  },
+  {
+    "file": "after-male-normals.png",
+    "status": "就绪 · male · normals · 姿态 0,0,0 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 8 · Triangles 168672 · Geometries 2 · CPU submit 0.3 ms · 帧 31 · 稳定"
+  },
+  {
+    "file": "after-female-wire.png",
+    "status": "就绪 · female · wire · 姿态 0,0,0 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 8 · Triangles 0 · Geometries 4 · CPU submit 2.3 ms · 帧 60 · 稳定"
+  },
+  {
+    "file": "after-female-normals.png",
+    "status": "就绪 · female · normals · 姿态 0,0,0 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 8 · Triangles 324208 · Geometries 4 · CPU submit 0.8 ms · 帧 66 · 稳定"
+  },
+  {
+    "file": "after-male-none.png",
+    "status": "就绪 · male · skin · 姿态 0,0,0 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 18 · Triangles 6868416 · Geometries 3 · CPU submit 1.2 ms · 帧 36 · 稳定"
+  },
+  {
+    "file": "after-male-short.png",
+    "status": "就绪 · male · skin · 姿态 0,0,0 · 发型 short · 可见胸像 1 · 可见发型 1 · Draws(四视图) 25 · Triangles 12063312 · Geometries 4 · CPU submit 36.0 ms · 帧 42 · 稳定"
+  },
+  {
+    "file": "after-male-bob.png",
+    "status": "就绪 · male · skin · 姿态 0,0,0 · 发型 bob · 可见胸像 1 · 可见发型 1 · Draws(四视图) 25 · Triangles 25648632 · Geometries 5 · CPU submit 76.3 ms · 帧 47 · 稳定"
+  },
+  {
+    "file": "after-male-curly.png",
+    "status": "就绪 · male · skin · 姿态 0,0,0 · 发型 curly · 可见胸像 1 · 可见发型 1 · Draws(四视图) 25 · Triangles 33328416 · Geometries 6 · CPU submit 112.6 ms · 帧 53 · 稳定"
+  },
+  {
+    "file": "after-female-none.png",
+    "status": "就绪 · female · skin · 姿态 0,0,0 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 22 · Triangles 562948 · Geometries 10 · CPU submit 1.2 ms · 帧 36 · 稳定"
+  },
+  {
+    "file": "after-female-short.png",
+    "status": "就绪 · female · skin · 姿态 0,0,0 · 发型 short · 可见胸像 1 · 可见发型 1 · Draws(四视图) 29 · Triangles 19343164 · Geometries 10 · CPU submit 1.3 ms · 帧 41 · 稳定"
+  },
+  {
+    "file": "after-female-bob.png",
+    "status": "就绪 · female · skin · 姿态 0,0,0 · 发型 bob · 可见胸像 1 · 可见发型 1 · Draws(四视图) 29 · Triangles 19343164 · Geometries 10 · CPU submit 4.2 ms · 帧 46 · 稳定"
+  },
+  {
+    "file": "after-female-curly.png",
+    "status": "就绪 · female · skin · 姿态 0,0,0 · 发型 curly · 可见胸像 1 · 可见发型 1 · Draws(四视图) 29 · Triangles 27022948 · Geometries 10 · CPU submit 0.6 ms · 帧 51 · 稳定"
+  },
+  {
+    "file": "after-male-key-only.png",
+    "status": "就绪 · male · skin · 姿态 0,0,0 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 14 · Triangles 4908608 · Geometries 6 · CPU submit 37.6 ms · 帧 57 · 稳定"
+  },
+  {
+    "file": "after-male-fill-only.png",
+    "status": "就绪 · male · skin · 姿态 0,0,0 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 14 · Triangles 4908608 · Geometries 6 · CPU submit 1.2 ms · 帧 63 · 稳定"
+  },
+  {
+    "file": "after-male-rim-only.png",
+    "status": "就绪 · male · skin · 姿态 0,0,0 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 14 · Triangles 4908608 · Geometries 6 · CPU submit 0.8 ms · 帧 68 · 稳定"
+  },
+  {
+    "file": "after-female-key-only.png",
+    "status": "就绪 · female · skin · 姿态 0,0,0 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 18 · Triangles 405708 · Geometries 10 · CPU submit 0.9 ms · 帧 110 · 稳定"
+  },
+  {
+    "file": "after-female-fill-only.png",
+    "status": "就绪 · female · skin · 姿态 0,0,0 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 18 · Triangles 405708 · Geometries 10 · CPU submit 1.1 ms · 帧 116 · 稳定"
+  },
+  {
+    "file": "after-female-rim-only.png",
+    "status": "就绪 · female · skin · 姿态 0,0,0 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 18 · Triangles 405708 · Geometries 10 · CPU submit 1.1 ms · 帧 121 · 稳定"
+  },
+  {
+    "file": "after-male-extended.png",
+    "status": "就绪 · male · clay · 姿态 -35,15,-15 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 8 · Triangles 168672 · Geometries 2 · CPU submit 0.3 ms · 帧 20 · 稳定"
+  },
+  {
+    "file": "after-female-extended.png",
+    "status": "就绪 · female · clay · 姿态 -35,15,-15 · 发型 none · 可见胸像 1 · 可见发型 0 · Draws(四视图) 8 · Triangles 324208 · Geometries 4 · CPU submit 0.9 ms · 帧 45 · 稳定"
+  }
+]

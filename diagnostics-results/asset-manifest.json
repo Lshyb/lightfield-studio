@@ -1,0 +1,362 @@
+[
+  {
+    "file": "dist/academy.js",
+    "bytes": 10444,
+    "sha256": "68e82efa4732802e525151d0abc86b67e3c80b672f6a5f291590ae171b5a698a"
+  },
+  {
+    "file": "dist/advice.js",
+    "bytes": 8747,
+    "sha256": "20d86f379a3ce4bc325263bbe31bd29fada32cdb814d4b8b1afd595dd3af1998"
+  },
+  {
+    "file": "dist/app.js",
+    "bytes": 59236,
+    "sha256": "21c9f253974b5bc2f3956bbf5f1d14fc3f18ff70c36ffb78a89086df7a43450f"
+  },
+  {
+    "file": "dist/assets/female-portrait.glb",
+    "bytes": 10220324,
+    "sha256": "4cdb339e91a68544cd6aabd848b81975f21a19f233df46a576d5c14ba750b8ee"
+  },
+  {
+    "file": "dist/assets/female.bin",
+    "bytes": 993988,
+    "sha256": "78e573143d7608eb9c7922d6644210474c43f0d813afd30f09bb7ccc476d1207"
+  },
+  {
+    "file": "dist/assets/hair/bob.bin",
+    "bytes": 7754388,
+    "sha256": "1c6f1544312850d460636c834b8c581fe94293cc984a57de5c74df3272f3ca04"
+  },
+  {
+    "file": "dist/assets/hair/curly.bin",
+    "bytes": 10680020,
+    "sha256": "b94c4459c2061f2b455a652a3313dbb469984400a917625e1ceb48381b027af0"
+  },
+  {
+    "file": "dist/assets/hair/female-collision.bin",
+    "bytes": 3223012,
+    "sha256": "31dfc5ae6246732be48d379444fb2d19416a44ad6b9e83045bc287ac73cbaa23"
+  },
+  {
+    "file": "dist/assets/hair/female-head.sdf",
+    "bytes": 1572912,
+    "sha256": "c1810d71a34badddd5b236a900baa4ee79fb5432165f431fc7f5ee739a7bd9e7"
+  },
+  {
+    "file": "dist/assets/hair/male-collision.bin",
+    "bytes": 1560964,
+    "sha256": "64888660123e8dd81726a0b375f3e508a00311497c12d05250e848ee7d383dcc"
+  },
+  {
+    "file": "dist/assets/hair/male-head.sdf",
+    "bytes": 1572912,
+    "sha256": "64fd54b869c3e72a56a477c74aafc65a9d548ec71f990387be1a7bfca9ab79ce"
+  },
+  {
+    "file": "dist/assets/hair/metadata.json",
+    "bytes": 1211,
+    "sha256": "47a520a98cf253fec7d2abe2b09a227377f644dc3a6d6999409b6ee639a7508b"
+  },
+  {
+    "file": "dist/assets/hair/short.bin",
+    "bytes": 2494048,
+    "sha256": "6ef184c046f9b775121e43ba21ea5dd7c3ec9b80cacfc4d52cbfe12d2587089a"
+  },
+  {
+    "file": "dist/assets/hair/SOURCE-CREDITS.txt",
+    "bytes": 2383,
+    "sha256": "63a42136c9a54a17ddd378f5c34339365a1c0b698f05211049c4e79ad581f79e"
+  },
+  {
+    "file": "dist/assets/hair/SOURCE.txt",
+    "bytes": 437,
+    "sha256": "9a1999fe34a3f741d3ec52d53b7f52849c67511b97c1f167d6485765196a0e83"
+  },
+  {
+    "file": "dist/assets/male-beard.bin",
+    "bytes": 3210724,
+    "sha256": "d91fd8f449b5b9d4bb28c73298eeee0699665be9b11313e4f6fca723e6aa22dd"
+  },
+  {
+    "file": "dist/assets/male-portrait.glb",
+    "bytes": 4291128,
+    "sha256": "ce7a85cb8a8377c76fe6d70563bbc3e5008573d64b20ae28cdb13d540867b823"
+  },
+  {
+    "file": "dist/assets/previews/female-bob.97f1133da0dd.jpg",
+    "bytes": 199191,
+    "sha256": "97f1133da0dd457e10c476ba3b15269dc518841e0a67233fdee4387a1c7395ba"
+  },
+  {
+    "file": "dist/assets/previews/female-bob.jpg",
+    "bytes": 199191,
+    "sha256": "97f1133da0dd457e10c476ba3b15269dc518841e0a67233fdee4387a1c7395ba"
+  },
+  {
+    "file": "dist/assets/previews/female-curly.b7235648c06c.jpg",
+    "bytes": 271448,
+    "sha256": "b7235648c06c3de3b428546139b4ebb727a84a4188ba026dcd9d01269ca265eb"
+  },
+  {
+    "file": "dist/assets/previews/female-curly.jpg",
+    "bytes": 271448,
+    "sha256": "b7235648c06c3de3b428546139b4ebb727a84a4188ba026dcd9d01269ca265eb"
+  },
+  {
+    "file": "dist/assets/previews/female-none.5604bddc6896.jpg",
+    "bytes": 120837,
+    "sha256": "5604bddc6896c5f16809dd2109344d5775363371793b8ccc2f0842c7e6977b33"
+  },
+  {
+    "file": "dist/assets/previews/female-none.jpg",
+    "bytes": 120837,
+    "sha256": "5604bddc6896c5f16809dd2109344d5775363371793b8ccc2f0842c7e6977b33"
+  },
+  {
+    "file": "dist/assets/previews/female-short.b31c40599a96.jpg",
+    "bytes": 188543,
+    "sha256": "b31c40599a96bed68cb52ab19dd12108817c5a241df6bd49e024df845a11b046"
+  },
+  {
+    "file": "dist/assets/previews/female-short.jpg",
+    "bytes": 188543,
+    "sha256": "b31c40599a96bed68cb52ab19dd12108817c5a241df6bd49e024df845a11b046"
+  },
+  {
+    "file": "dist/assets/previews/male-bob.fd8f50d1fa65.jpg",
+    "bytes": 221286,
+    "sha256": "fd8f50d1fa652be3f8102204a9f287c5684cb191bd47043c1c5cfc45d2e57fd2"
+  },
+  {
+    "file": "dist/assets/previews/male-bob.jpg",
+    "bytes": 221286,
+    "sha256": "fd8f50d1fa652be3f8102204a9f287c5684cb191bd47043c1c5cfc45d2e57fd2"
+  },
+  {
+    "file": "dist/assets/previews/male-curly.c6dc915517c1.jpg",
+    "bytes": 277264,
+    "sha256": "c6dc915517c1e5974630bcc8a69d5ee7c5c1dc89f333ac3413cd7f0ca88d764f"
+  },
+  {
+    "file": "dist/assets/previews/male-curly.jpg",
+    "bytes": 277264,
+    "sha256": "c6dc915517c1e5974630bcc8a69d5ee7c5c1dc89f333ac3413cd7f0ca88d764f"
+  },
+  {
+    "file": "dist/assets/previews/male-none.9549a9cf4d16.jpg",
+    "bytes": 158343,
+    "sha256": "9549a9cf4d16bc043ffc4cc900297ba66789411859788874090ce250fb0d48cd"
+  },
+  {
+    "file": "dist/assets/previews/male-none.jpg",
+    "bytes": 158343,
+    "sha256": "9549a9cf4d16bc043ffc4cc900297ba66789411859788874090ce250fb0d48cd"
+  },
+  {
+    "file": "dist/assets/previews/male-short.b6b94e417a4b.jpg",
+    "bytes": 200141,
+    "sha256": "b6b94e417a4b5e58241927176ec82efa05494b950d1b7e296371f137589b3f9f"
+  },
+  {
+    "file": "dist/assets/previews/male-short.jpg",
+    "bytes": 200141,
+    "sha256": "b6b94e417a4b5e58241927176ec82efa05494b950d1b7e296371f137589b3f9f"
+  },
+  {
+    "file": "dist/beard.js",
+    "bytes": 2039,
+    "sha256": "376122e5fd56e45a7befa2384ccd0df30dc600a97a49c3ab6fb76c4934c7f932"
+  },
+  {
+    "file": "dist/camera-system.js",
+    "bytes": 6030,
+    "sha256": "b9e798619b838ec2eddf93fa880ccaafbffc1c48064fa009cacc70ec902d6443"
+  },
+  {
+    "file": "dist/camera-ui.css",
+    "bytes": 4803,
+    "sha256": "adcd8e21d05f3c468e4aefb7df452b3fa134540b0117bd7760c2d209760ab7f0"
+  },
+  {
+    "file": "dist/camera-ui.js",
+    "bytes": 11202,
+    "sha256": "da35a09c9df019725e3d945b221a58e85e78050f45b179738babdeb48f71dc10"
+  },
+  {
+    "file": "dist/diagnostics.html",
+    "bytes": 2907,
+    "sha256": "667577ae7179a2cfefb94332251538f48eae1697db662f8378fcde3d850028b3"
+  },
+  {
+    "file": "dist/diagnostics.js",
+    "bytes": 8501,
+    "sha256": "a4db63eda523a09bd4d1d2165a3a376155a39a9e201a53d2f1c718352370465a"
+  },
+  {
+    "file": "dist/female.js",
+    "bytes": 154,
+    "sha256": "cc74b43b331b9fa645e5c50e28b0951d174ca26cd06af49ae4699772c89bb315"
+  },
+  {
+    "file": "dist/hair-cuts.js",
+    "bytes": 665,
+    "sha256": "e59013c6e73e1dcc9d3406740283535b69323b5b93ea7dc48018cbe17cbd5a43"
+  },
+  {
+    "file": "dist/hair-fibers.js",
+    "bytes": 6996,
+    "sha256": "4c3660a4cc92832a947b4abfc81b990ebe09142cd8a14ac9e06aadf2645cd651"
+  },
+  {
+    "file": "dist/hair-motion.js",
+    "bytes": 11236,
+    "sha256": "1370db2b2acb0255e6d582457704bb6a539e48167da5c9947c6b0adaccf1f0ae"
+  },
+  {
+    "file": "dist/hair-previews.js",
+    "bytes": 623,
+    "sha256": "228778962c688d47abff46690b973e8c338977e9878e437fd2806b932f94cdd0"
+  },
+  {
+    "file": "dist/hair.js",
+    "bytes": 5724,
+    "sha256": "3c33255ae4c9c3a70f5adaef4f3145d3a66216cf5008e49ca6040b7847d07ac3"
+  },
+  {
+    "file": "dist/head-collider.js",
+    "bytes": 2205,
+    "sha256": "031b796898eab10da9ba14ca7fd81c3a6e07875e9081659dc351d091c1f292e1"
+  },
+  {
+    "file": "dist/image-rights.js",
+    "bytes": 1425,
+    "sha256": "bdb9b67c2b4b9236b6904166f4498193c2f2ea01711e458d252afec56d9d4ff8"
+  },
+  {
+    "file": "dist/index.html",
+    "bytes": 24000,
+    "sha256": "e496586ef6074a9394d3893b277c55a471592a5e817146047fc29e743118398e"
+  },
+  {
+    "file": "dist/lighting.js",
+    "bytes": 12409,
+    "sha256": "4ba5057ea2c7b51ecc534c6451a198d70be4d1b3386e4d3ce7c7368f1ec8588c"
+  },
+  {
+    "file": "dist/male.js",
+    "bytes": 293,
+    "sha256": "bf6a8fbe2ecc4145a75ff1633d25c6e6ccc02fecc11d87704e0900719f591b5d"
+  },
+  {
+    "file": "dist/mesh-diagnostics.js",
+    "bytes": 4211,
+    "sha256": "9487cd974971fbb7111e1540e5ebdd96800adb4b87ac22d7976f778bed050f99"
+  },
+  {
+    "file": "dist/neck.js",
+    "bytes": 4485,
+    "sha256": "a616dd1cf2b67df8573969d6a5b16104880f73ba0ae7294c13ca6b8acd40b292"
+  },
+  {
+    "file": "dist/portrait.js",
+    "bytes": 1599,
+    "sha256": "4f3d885b735478b52eef820c9882131c38c8aa144547ed877e8f78aa8136fd3f"
+  },
+  {
+    "file": "dist/review/curls.json",
+    "bytes": 1061,
+    "sha256": "17c9fbcc083003ba26a95a502db3394693c742438731ace9186ef367018132b2"
+  },
+  {
+    "file": "dist/review/front.json",
+    "bytes": 1082,
+    "sha256": "9961251af26201f069f0a61f31ebbd546894fb24340887aec5fde1d025cf1441"
+  },
+  {
+    "file": "dist/review/male-curls.json",
+    "bytes": 1142,
+    "sha256": "616f47f7a4ab794354581952e219b8298bd4d16dfe5f6ca587601c988c67c54d"
+  },
+  {
+    "file": "dist/review/male-detail.json",
+    "bytes": 1142,
+    "sha256": "139fff48e46d542a4e59fabef89b8ace1081e1409a6657868614ea1d4e23bb53"
+  },
+  {
+    "file": "dist/review/male-front.json",
+    "bytes": 1141,
+    "sha256": "60083bbe5c4d2d81222f390062969cdfae8353d44faf5e92e37b7577ecd25aef"
+  },
+  {
+    "file": "dist/review/male-side.json",
+    "bytes": 1143,
+    "sha256": "7275525451bfb787cd625d0d9b8d8d5aaeaeb241afcb5bc516453c6f3b90abff"
+  },
+  {
+    "file": "dist/review/side.json",
+    "bytes": 1085,
+    "sha256": "e779b4ec6a5206f8b19b18431bd13c24bc4dbd8f44208b22f8890d2a6138bf95"
+  },
+  {
+    "file": "dist/skin-normals.js",
+    "bytes": 2898,
+    "sha256": "01cf21ea250c051cb0faff2ac8e55a171a93fc5c1cf2f2495fc4794cd2334f0c"
+  },
+  {
+    "file": "dist/skin-surface.js",
+    "bytes": 2744,
+    "sha256": "5caec9152a33b9f946c9f66eda477c3c68b0def1d3e1bdb9b40f3ee3a205a091"
+  },
+  {
+    "file": "dist/studio-shadows.js",
+    "bytes": 4633,
+    "sha256": "493becc097e9669dc5293ccb0624d6cb7d344d422dd0973d95d061b02153e06b"
+  },
+  {
+    "file": "dist/studio-ui.css",
+    "bytes": 22196,
+    "sha256": "0f064046d88a7307e8ddc8e1eaaf333191ad1b546486bbd03c0dd6c7b4d465e7"
+  },
+  {
+    "file": "dist/studio-ui.js",
+    "bytes": 4426,
+    "sha256": "c1fdc29d371cb716d19a07817d85be39913534fb1b552267db2154a27ec11ca6"
+  },
+  {
+    "file": "dist/style.css",
+    "bytes": 43088,
+    "sha256": "809d429d364556730e15f1c5515cd3a74e56e3fc8c6b8bf270bfde8817ef25cf"
+  },
+  {
+    "file": "dist/THIRD-PARTY.txt",
+    "bytes": 1941,
+    "sha256": "57273b9a2d3c0e68a05f6ffdfe9ecfa69e6d02df92ba4a7d44a5edcff2d1c2b8"
+  },
+  {
+    "file": "dist/vendor/controls/OrbitControls.js",
+    "bytes": 32134,
+    "sha256": "80efaadea4f8a636a65fb0bd08bfef62f3d93a0bb94e2e7500f23176c5c07f4e"
+  },
+  {
+    "file": "dist/vendor/loaders/GLTFLoader.js",
+    "bytes": 110273,
+    "sha256": "45139faddd5aaf48ed2d62203d976e5cbd703db1a592de40527f9f6cf58abd44"
+  },
+  {
+    "file": "dist/vendor/THREE-LICENSE.txt",
+    "bytes": 1081,
+    "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454"
+  },
+  {
+    "file": "dist/vendor/three.module.js",
+    "bytes": 691648,
+    "sha256": "08fd7545d13d2c7fb65ab691530a802dafefd638596501854f267d0fb13c39e7"
+  },
+  {
+    "file": "dist/vendor/utils/BufferGeometryUtils.js",
+    "bytes": 31768,
+    "sha256": "c25b7930e570e9ec56173cd3b866ec8d2e10016630db3937efb439daf1cedbf6"
+  }
+]

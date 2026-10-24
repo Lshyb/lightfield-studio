@@ -1,0 +1,32 @@
+{
+  "gpu": "WebGL 2 hardware acceleration; device details omitted",
+  "pixelRatio": 1,
+  "width": 1987,
+  "height": 837,
+  "subject": "female",
+  "hair": "bob",
+  "surface": "skin",
+  "views": 4,
+  "cpuSubmission": [
+    {
+      "cache": false,
+      "cpuMedian": 1.100000023841858,
+      "draws": 29
+    },
+    {
+      "cache": true,
+      "cpuMedian": 1.4000000059604645,
+      "draws": 20
+    }
+  ],
+  "gpuTiming": [
+    {
+      "cache": false,
+      "medianMs": 30.012256
+    },
+    {
+      "cache": true,
+      "medianMs": 28.805632
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Hair Styles by Daniel Bystedt. CC BY-SA, as stated in the original demo file.
+Source: https://www.blender.org/download/demo-files/#hair
+Original file: https://mirror.blender.org/demo/geometry-nodes/hair_nodes-female_hair_styles.blend
+Local trial changes: sampled original evaluated curves, resampled points, fitted to another head, thickened for web coverage, converted to a binary strand format.
+Release 1.1.0: authentic upstream CC BY-SA; official website default BY-SA 3.0 is the documented contextual distribution basis. See LICENSES/HAIR-NOTICE.txt and docs/ASSET_LICENSE_AUDIT.zh-CN.md. The upstream asset itself does not state a version.

@@ -1,0 +1,1433 @@
+{
+  "schema": 1,
+  "scope": "public-release",
+  "review_date": "2026-10-24",
+  "hair_basis": "docs/ASSET_LICENSE_AUDIT.zh-CN.md",
+  "public_approval_granted": true,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Cross-platform byte preservation for the pinned release inventory",
+      "bytes": 82,
+      "sha256": "227ed0be1e679c18c4566bb10c53e2e37cb7180243fb5463c975bb56bbab3209"
+    },
+    {
+      "path": ".github/workflows/check.yml",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Read-only CI checks; no credentials or publishing automation",
+      "bytes": 776,
+      "sha256": "eecc377273341388e3ecf1190ddf968204a50357cf79ca4436c5c62190b79b8e"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 147,
+      "sha256": "a4561242287c7306ee1b2e3e9222e93d9f397f031c17913fc73330e1dab39c1d",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 3579,
+      "sha256": "cb5f60b160ca83bc4995c4fed0b9725bb81574e48d9f6e7774e54a7605fda042",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/asset-manifest.json",
+      "bytes": 11373,
+      "sha256": "4c1105ac028a369ad00f39999f8df7e33d982172a863d2a32d92303d8f565f2d",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/beard.json",
+      "bytes": 4015,
+      "sha256": "9a20b6205ded67afd6d06670547e7df7b93e88f25c8d02de1fcb2cc7fb0fb01b",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/benchmark-curly.json",
+      "bytes": 564,
+      "sha256": "c7552bfb63c303319420ac006e620211a0a894934994a8f8426e5af734a1d3e2",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/benchmark-female.json",
+      "bytes": 580,
+      "sha256": "034ebf6c0400784ebb5d30181ca3fcc3f413baccb9da43f283a71c5e44043f9e",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/benchmark-male.json",
+      "bytes": 576,
+      "sha256": "5dac50ef8b8de3f3a84b314edac98a6e45863934bc1c8a065816e9fd5dd9aa2e",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/browser-proof-log.json",
+      "bytes": 7163,
+      "sha256": "f0ae3b3f1c2ec6d48602d33b7f2c4e56fefbf9443eb6937d8ef2e4b337caaff1",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/camera-additional-browser-tests.json",
+      "bytes": 329,
+      "sha256": "c0d08d5df85ddf714fd81471689db12c7410db3f4a8fed84cb8e6ac369375774",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/camera-browser-tests.json",
+      "bytes": 569,
+      "sha256": "b3b00577bdafc41ea44d36c20bdc82168f56c75b7d69c1882f7cff5631d3eb02",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/female-previews-browser.json",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent release code, documentation or test evidence",
+      "bytes": 967,
+      "sha256": "4949f8f10f3d19af397513df6e11d3e434fa2a975a9b9521b42aef1d899d9f07"
+    },
+    {
+      "path": "diagnostics-results/hair-female-motion.json",
+      "bytes": 111701,
+      "sha256": "5fcec32bd96fc93163549bff8fd45f52f3f7bb571f4d15c5ce55dec021fc504d",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/hair-male-motion.json",
+      "bytes": 111536,
+      "sha256": "08a180243ead531c81cfde6cc4eea5bc62bac7fb452073c55d0d70fd451a8e6c",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/model-switches.json",
+      "bytes": 3135,
+      "sha256": "3736e837efa54643bb453fdf51368ece5a7c9cdcde34dfa92d3094a38bae67e6",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/photo-settings.json",
+      "bytes": 1926,
+      "sha256": "18f0e923ca820e7b1f5794e8ca867fd39c577a0628a7386c6323a15fe608e34b",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/portraits.json",
+      "bytes": 50880,
+      "sha256": "d91051580ad9c3c051d7472e7ef4129e4de14e798cdfe5868621a9863b8e2915",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/release-additional-browser-tests.json",
+      "bytes": 329,
+      "sha256": "c0d08d5df85ddf714fd81471689db12c7410db3f4a8fed84cb8e6ac369375774",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/release-browser-tests.json",
+      "bytes": 569,
+      "sha256": "b3b00577bdafc41ea44d36c20bdc82168f56c75b7d69c1882f7cff5631d3eb02",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/rig-comparison.json",
+      "bytes": 558,
+      "sha256": "6977a478efafae8511709ccabfe9b8808c804767694580de23c3379bf6e1998d",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/scalp-normal-repair.json",
+      "bytes": 220,
+      "sha256": "3fb6285d1823eaebcf728341c311bcb3825c5ba776530fc20f3af331271e13d1",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/source-after.json",
+      "bytes": 28882,
+      "sha256": "28ceb757d4bff897dfac18088b500afac0b76f994c1ef120de262a5dd7944a89",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/source-before.json",
+      "bytes": 29502,
+      "sha256": "ff6be18d8176d86958ef6e7cbd00faa280bfa4c0f8b51e051d8f17c7139da842",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "diagnostics-results/source-repair.json",
+      "bytes": 676,
+      "sha256": "13a610f53cf2b266b0348459dd7c85b8149f73ee389b7f42c3e4446ec015d4eb",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/academy.js",
+      "bytes": 10444,
+      "sha256": "68e82efa4732802e525151d0abc86b67e3c80b672f6a5f291590ae171b5a698a",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/advice.js",
+      "bytes": 8747,
+      "sha256": "20d86f379a3ce4bc325263bbe31bd29fada32cdb814d4b8b1afd595dd3af1998",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/app.js",
+      "bytes": 59668,
+      "sha256": "c38c3354d58a288cf7bfdc1c2cb4f13a3026c74bfcb1c9dd7e1f0879f503a90f",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/assets/female-portrait.glb",
+      "bytes": 10220324,
+      "sha256": "4cdb339e91a68544cd6aabd848b81975f21a19f233df46a576d5c14ba750b8ee",
+      "license": "CC-BY-NC-SA-4.0",
+      "status": "reviewed",
+      "reason": "patrix female adaptation; separately licensed"
+    },
+    {
+      "path": "dist/assets/female.bin",
+      "bytes": 993988,
+      "sha256": "78e573143d7608eb9c7922d6644210474c43f0d813afd30f09bb7ccc476d1207",
+      "license": "CC-BY-NC-SA-4.0",
+      "status": "reviewed",
+      "reason": "patrix female adaptation; separately licensed"
+    },
+    {
+      "path": "dist/assets/hair/bob.bin",
+      "bytes": 7754388,
+      "sha256": "1c6f1544312850d460636c834b8c581fe94293cc984a57de5c74df3272f3ca04",
+      "license": "CC-BY-SA (official-default-3.0 basis)",
+      "status": "reviewed-official-default",
+      "reason": "Original notice and official default policy reviewed; see license audit"
+    },
+    {
+      "path": "dist/assets/hair/curly.bin",
+      "bytes": 10680020,
+      "sha256": "b94c4459c2061f2b455a652a3313dbb469984400a917625e1ceb48381b027af0",
+      "license": "CC-BY-SA (official-default-3.0 basis)",
+      "status": "reviewed-official-default",
+      "reason": "Original notice and official default policy reviewed; see license audit"
+    },
+    {
+      "path": "dist/assets/hair/female-collision.bin",
+      "bytes": 3223012,
+      "sha256": "31dfc5ae6246732be48d379444fb2d19416a44ad6b9e83045bc287ac73cbaa23",
+      "license": "CC-BY-NC-SA-4.0",
+      "status": "reviewed",
+      "reason": "patrix female adaptation; separately licensed"
+    },
+    {
+      "path": "dist/assets/hair/female-head.sdf",
+      "bytes": 1572912,
+      "sha256": "c1810d71a34badddd5b236a900baa4ee79fb5432165f431fc7f5ee739a7bd9e7",
+      "license": "CC-BY-NC-SA-4.0",
+      "status": "reviewed",
+      "reason": "patrix female adaptation; separately licensed"
+    },
+    {
+      "path": "dist/assets/hair/male-collision.bin",
+      "bytes": 1560964,
+      "sha256": "64888660123e8dd81726a0b375f3e508a00311497c12d05250e848ee7d383dcc",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "dist/assets/hair/male-head.sdf",
+      "bytes": 1572912,
+      "sha256": "64fd54b869c3e72a56a477c74aafc65a9d548ec71f990387be1a7bfca9ab79ce",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "dist/assets/hair/metadata.json",
+      "bytes": 1211,
+      "sha256": "47a520a98cf253fec7d2abe2b09a227377f644dc3a6d6999409b6ee639a7508b",
+      "license": "CC-BY-SA (official-default-3.0 basis)",
+      "status": "reviewed-official-default",
+      "reason": "Original notice and official default policy reviewed; see license audit"
+    },
+    {
+      "path": "dist/assets/hair/short.bin",
+      "bytes": 2494048,
+      "sha256": "6ef184c046f9b775121e43ba21ea5dd7c3ec9b80cacfc4d52cbfe12d2587089a",
+      "license": "CC-BY-SA (official-default-3.0 basis)",
+      "status": "reviewed-official-default",
+      "reason": "Original notice and official default policy reviewed; see license audit"
+    },
+    {
+      "path": "dist/assets/hair/SOURCE-CREDITS.txt",
+      "bytes": 2383,
+      "sha256": "63a42136c9a54a17ddd378f5c34339365a1c0b698f05211049c4e79ad581f79e",
+      "license": "CC-BY-SA (official-default-3.0 basis)",
+      "status": "reviewed-official-default",
+      "reason": "Original notice and official default policy reviewed; see license audit"
+    },
+    {
+      "path": "dist/assets/hair/SOURCE.txt",
+      "bytes": 650,
+      "sha256": "82a06bd9c384117ca592eed2088c7f05342b5dade76c2d720eefccbd1289464d",
+      "license": "CC-BY-SA (official-default-3.0 basis)",
+      "status": "reviewed-official-default",
+      "reason": "Original notice and official default policy reviewed; see license audit"
+    },
+    {
+      "path": "dist/assets/male-beard.bin",
+      "bytes": 3210724,
+      "sha256": "d91fd8f449b5b9d4bb28c73298eeee0699665be9b11313e4f6fca723e6aa22dd",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "dist/assets/male-portrait.glb",
+      "bytes": 4291128,
+      "sha256": "ce7a85cb8a8377c76fe6d70563bbc3e5008573d64b20ae28cdb13d540867b823",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "dist/assets/previews/female-none.5604bddc6896.jpg",
+      "bytes": 120837,
+      "sha256": "5604bddc6896c5f16809dd2109344d5775363371793b8ccc2f0842c7e6977b33",
+      "license": "CC-BY-NC-SA-4.0",
+      "status": "reviewed",
+      "reason": "patrix female adaptation; separately licensed"
+    },
+    {
+      "path": "dist/assets/previews/female-none.b3dcac809b98.jpg",
+      "bytes": 120660,
+      "sha256": "b3dcac809b98d435864f046285365dba3f79e08e3ada89a2220f89a9970da962",
+      "license": "CC-BY-NC-SA-4.0",
+      "status": "reviewed",
+      "reason": "patrix female adaptation; separately licensed"
+    },
+    {
+      "path": "dist/assets/previews/female-none.jpg",
+      "bytes": 120837,
+      "sha256": "5604bddc6896c5f16809dd2109344d5775363371793b8ccc2f0842c7e6977b33",
+      "license": "CC-BY-NC-SA-4.0",
+      "status": "reviewed",
+      "reason": "patrix female adaptation; separately licensed"
+    },
+    {
+      "path": "dist/assets/previews/male-bob.45ca9abe49b6.jpg",
+      "bytes": 219040,
+      "sha256": "45ca9abe49b652f6a5ae04d27a7f2d82c86de27ac738c8ea7109a6b584ab93a5",
+      "license": "CC-BY-SA-3.0 distribution basis + male CC-BY-4.0 credit",
+      "status": "reviewed-official-default",
+      "reason": "Male hair adaptation; site-default interpretation disclosed"
+    },
+    {
+      "path": "dist/assets/previews/male-bob.5b9472e9ab01.jpg",
+      "bytes": 221209,
+      "sha256": "5b9472e9ab01bdefc212257e48563e05973a28983f0e94435b5b1f481524a07c",
+      "license": "CC-BY-SA-3.0 distribution basis + male CC-BY-4.0 credit",
+      "status": "reviewed-official-default",
+      "reason": "Male hair adaptation; site-default interpretation disclosed"
+    },
+    {
+      "path": "dist/assets/previews/male-bob.fd8f50d1fa65.jpg",
+      "bytes": 221286,
+      "sha256": "fd8f50d1fa652be3f8102204a9f287c5684cb191bd47043c1c5cfc45d2e57fd2",
+      "license": "CC-BY-SA-3.0 distribution basis + male CC-BY-4.0 credit",
+      "status": "reviewed-official-default",
+      "reason": "Male hair adaptation; site-default interpretation disclosed"
+    },
+    {
+      "path": "dist/assets/previews/male-bob.jpg",
+      "bytes": 221286,
+      "sha256": "fd8f50d1fa652be3f8102204a9f287c5684cb191bd47043c1c5cfc45d2e57fd2",
+      "license": "CC-BY-SA-3.0 distribution basis + male CC-BY-4.0 credit",
+      "status": "reviewed-official-default",
+      "reason": "Male hair adaptation; site-default interpretation disclosed"
+    },
+    {
+      "path": "dist/assets/previews/male-curly.18755f2595b2.jpg",
+      "bytes": 277233,
+      "sha256": "18755f2595b29fbcd991aed1ab5e78b95c8a2708dd54a70e73436b8d57f7cbda",
+      "license": "CC-BY-SA-3.0 distribution basis + male CC-BY-4.0 credit",
+      "status": "reviewed-official-default",
+      "reason": "Male hair adaptation; site-default interpretation disclosed"
+    },
+    {
+      "path": "dist/assets/previews/male-curly.c6dc915517c1.jpg",
+      "bytes": 277264,
+      "sha256": "c6dc915517c1e5974630bcc8a69d5ee7c5c1dc89f333ac3413cd7f0ca88d764f",
+      "license": "CC-BY-SA-3.0 distribution basis + male CC-BY-4.0 credit",
+      "status": "reviewed-official-default",
+      "reason": "Male hair adaptation; site-default interpretation disclosed"
+    },
+    {
+      "path": "dist/assets/previews/male-curly.d37fe5c8a73a.jpg",
+      "bytes": 278979,
+      "sha256": "d37fe5c8a73aada17ff9f06f327d38a3540a8f4742e2e3d8b58fde8ac5b7eeb3",
+      "license": "CC-BY-SA-3.0 distribution basis + male CC-BY-4.0 credit",
+      "status": "reviewed-official-default",
+      "reason": "Male hair adaptation; site-default interpretation disclosed"
+    },
+    {
+      "path": "dist/assets/previews/male-curly.jpg",
+      "bytes": 277264,
+      "sha256": "c6dc915517c1e5974630bcc8a69d5ee7c5c1dc89f333ac3413cd7f0ca88d764f",
+      "license": "CC-BY-SA-3.0 distribution basis + male CC-BY-4.0 credit",
+      "status": "reviewed-official-default",
+      "reason": "Male hair adaptation; site-default interpretation disclosed"
+    },
+    {
+      "path": "dist/assets/previews/male-none.7f2b181ae7ad.jpg",
+      "bytes": 158236,
+      "sha256": "7f2b181ae7ad12241fa5a49c81fe9c62e0a1ce1026c4f00dc013a4cee2721b21",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "dist/assets/previews/male-none.9549a9cf4d16.jpg",
+      "bytes": 158343,
+      "sha256": "9549a9cf4d16bc043ffc4cc900297ba66789411859788874090ce250fb0d48cd",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "dist/assets/previews/male-none.e583043236bb.jpg",
+      "bytes": 160298,
+      "sha256": "e583043236bb17490775cb3c1035feee0441a3f8c6b7a53163d7e62d2ef8f357",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "dist/assets/previews/male-none.jpg",
+      "bytes": 158343,
+      "sha256": "9549a9cf4d16bc043ffc4cc900297ba66789411859788874090ce250fb0d48cd",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "dist/assets/previews/male-short.1ad40eaa6460.jpg",
+      "bytes": 200024,
+      "sha256": "1ad40eaa64606e088876c5b3f4da0decce71e99f57c83ed7ffadfc1ff04efa32",
+      "license": "CC-BY-SA-3.0 distribution basis + male CC-BY-4.0 credit",
+      "status": "reviewed-official-default",
+      "reason": "Male hair adaptation; site-default interpretation disclosed"
+    },
+    {
+      "path": "dist/assets/previews/male-short.917fe8ac0017.jpg",
+      "bytes": 202061,
+      "sha256": "917fe8ac0017bda266ab77fb0e976b92e671ef017e4f5c37372b246ab2bac720",
+      "license": "CC-BY-SA-3.0 distribution basis + male CC-BY-4.0 credit",
+      "status": "reviewed-official-default",
+      "reason": "Male hair adaptation; site-default interpretation disclosed"
+    },
+    {
+      "path": "dist/assets/previews/male-short.b6b94e417a4b.jpg",
+      "bytes": 200141,
+      "sha256": "b6b94e417a4b5e58241927176ec82efa05494b950d1b7e296371f137589b3f9f",
+      "license": "CC-BY-SA-3.0 distribution basis + male CC-BY-4.0 credit",
+      "status": "reviewed-official-default",
+      "reason": "Male hair adaptation; site-default interpretation disclosed"
+    },
+    {
+      "path": "dist/assets/previews/male-short.jpg",
+      "bytes": 200141,
+      "sha256": "b6b94e417a4b5e58241927176ec82efa05494b950d1b7e296371f137589b3f9f",
+      "license": "CC-BY-SA-3.0 distribution basis + male CC-BY-4.0 credit",
+      "status": "reviewed-official-default",
+      "reason": "Male hair adaptation; site-default interpretation disclosed"
+    },
+    {
+      "path": "dist/beard.js",
+      "bytes": 2039,
+      "sha256": "376122e5fd56e45a7befa2384ccd0df30dc600a97a49c3ab6fb76c4934c7f932",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/camera-system.js",
+      "bytes": 6030,
+      "sha256": "b9e798619b838ec2eddf93fa880ccaafbffc1c48064fa009cacc70ec902d6443",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/camera-ui.css",
+      "bytes": 4803,
+      "sha256": "adcd8e21d05f3c468e4aefb7df452b3fa134540b0117bd7760c2d209760ab7f0",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/camera-ui.js",
+      "bytes": 11202,
+      "sha256": "da35a09c9df019725e3d945b221a58e85e78050f45b179738babdeb48f71dc10",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/diagnostics.html",
+      "bytes": 2907,
+      "sha256": "667577ae7179a2cfefb94332251538f48eae1697db662f8378fcde3d850028b3",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/diagnostics.js",
+      "bytes": 8501,
+      "sha256": "a4db63eda523a09bd4d1d2165a3a376155a39a9e201a53d2f1c718352370465a",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/female.js",
+      "bytes": 154,
+      "sha256": "cc74b43b331b9fa645e5c50e28b0951d174ca26cd06af49ae4699772c89bb315",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/hair-cuts.js",
+      "bytes": 665,
+      "sha256": "e59013c6e73e1dcc9d3406740283535b69323b5b93ea7dc48018cbe17cbd5a43",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/hair-fibers.js",
+      "bytes": 7039,
+      "sha256": "5499a61bb240231da6db7454510d22a6ca3e0373402e4b056cf41c5cfe592c36",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/hair-motion.js",
+      "bytes": 11336,
+      "sha256": "5ed7a303503d860552cdbc98818bc8a51abc510d6c0dbe81599fc9692f4e98cd",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/hair-preview-cache.js",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent release code, documentation or test evidence",
+      "bytes": 1109,
+      "sha256": "7c2ec0e4b2838a39f3e533ad442714e750b99e95da0f2c97ac8129df482a813f"
+    },
+    {
+      "path": "dist/hair-preview-renderer.js",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent release code, documentation or test evidence",
+      "bytes": 4471,
+      "sha256": "afd488e0129d9138eb9bbe8ec4f5451998e90b0e4d967c125f2bee30099984a4"
+    },
+    {
+      "path": "dist/hair-previews.js",
+      "bytes": 447,
+      "sha256": "2b27f384a1105fb2da7f4872320bca793c875206ea5630338154bfdb2d84a223",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/hair.js",
+      "bytes": 5724,
+      "sha256": "3c33255ae4c9c3a70f5adaef4f3145d3a66216cf5008e49ca6040b7847d07ac3",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/head-collider.js",
+      "bytes": 2205,
+      "sha256": "031b796898eab10da9ba14ca7fd81c3a6e07875e9081659dc351d091c1f292e1",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/image-rights.js",
+      "bytes": 1425,
+      "sha256": "bdb9b67c2b4b9236b6904166f4498193c2f2ea01711e458d252afec56d9d4ff8",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 24000,
+      "sha256": "e496586ef6074a9394d3893b277c55a471592a5e817146047fc29e743118398e",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/lighting.js",
+      "bytes": 12409,
+      "sha256": "4ba5057ea2c7b51ecc534c6451a198d70be4d1b3386e4d3ce7c7368f1ec8588c",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/male.js",
+      "bytes": 293,
+      "sha256": "bf6a8fbe2ecc4145a75ff1633d25c6e6ccc02fecc11d87704e0900719f591b5d",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/mesh-diagnostics.js",
+      "bytes": 4211,
+      "sha256": "9487cd974971fbb7111e1540e5ebdd96800adb4b87ac22d7976f778bed050f99",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/neck.js",
+      "bytes": 4485,
+      "sha256": "a616dd1cf2b67df8573969d6a5b16104880f73ba0ae7294c13ca6b8acd40b292",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/portrait.js",
+      "bytes": 1599,
+      "sha256": "4f3d885b735478b52eef820c9882131c38c8aa144547ed877e8f78aa8136fd3f",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/review/curls.json",
+      "bytes": 1061,
+      "sha256": "17c9fbcc083003ba26a95a502db3394693c742438731ace9186ef367018132b2",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/review/front.json",
+      "bytes": 1082,
+      "sha256": "9961251af26201f069f0a61f31ebbd546894fb24340887aec5fde1d025cf1441",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/review/male-curls.json",
+      "bytes": 1142,
+      "sha256": "616f47f7a4ab794354581952e219b8298bd4d16dfe5f6ca587601c988c67c54d",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/review/male-detail.json",
+      "bytes": 1142,
+      "sha256": "139fff48e46d542a4e59fabef89b8ace1081e1409a6657868614ea1d4e23bb53",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/review/male-front.json",
+      "bytes": 1141,
+      "sha256": "60083bbe5c4d2d81222f390062969cdfae8353d44faf5e92e37b7577ecd25aef",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/review/male-side.json",
+      "bytes": 1143,
+      "sha256": "7275525451bfb787cd625d0d9b8d8d5aaeaeb241afcb5bc516453c6f3b90abff",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/review/side.json",
+      "bytes": 1085,
+      "sha256": "e779b4ec6a5206f8b19b18431bd13c24bc4dbd8f44208b22f8890d2a6138bf95",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/skin-normals.js",
+      "bytes": 2898,
+      "sha256": "01cf21ea250c051cb0faff2ac8e55a171a93fc5c1cf2f2495fc4794cd2334f0c",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/skin-surface.js",
+      "bytes": 2744,
+      "sha256": "5caec9152a33b9f946c9f66eda477c3c68b0def1d3e1bdb9b40f3ee3a205a091",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/studio-shadows.js",
+      "bytes": 4633,
+      "sha256": "493becc097e9669dc5293ccb0624d6cb7d344d422dd0973d95d061b02153e06b",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/studio-ui.css",
+      "bytes": 22578,
+      "sha256": "045bfdd68b1e3d179438b49ee26643cfc8c758a46b7bacc65fcb169388176b5e",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/studio-ui.js",
+      "bytes": 5805,
+      "sha256": "5f19ec4e82b8954d67d5b00f5a573b7d4984c3385b8ea6f6ea093bd14c8d76b8",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/style.css",
+      "bytes": 43088,
+      "sha256": "809d429d364556730e15f1c5515cd3a74e56e3fc8c6b8bf270bfde8817ef25cf",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/THIRD-PARTY.txt",
+      "bytes": 5589,
+      "sha256": "10d8239df49cc8d2e67998e261391e2952413102674d081c200fcf86d652880e",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "dist/vendor/controls/OrbitControls.js",
+      "bytes": 32134,
+      "sha256": "80efaadea4f8a636a65fb0bd08bfef62f3d93a0bb94e2e7500f23176c5c07f4e",
+      "license": "MIT (Three.js)",
+      "status": "reviewed",
+      "reason": "Bundled Three.js r170 and license"
+    },
+    {
+      "path": "dist/vendor/loaders/GLTFLoader.js",
+      "bytes": 110273,
+      "sha256": "45139faddd5aaf48ed2d62203d976e5cbd703db1a592de40527f9f6cf58abd44",
+      "license": "MIT (Three.js)",
+      "status": "reviewed",
+      "reason": "Bundled Three.js r170 and license"
+    },
+    {
+      "path": "dist/vendor/THREE-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
+      "license": "MIT (Three.js)",
+      "status": "reviewed",
+      "reason": "Bundled Three.js r170 and license"
+    },
+    {
+      "path": "dist/vendor/three.module.js",
+      "bytes": 691648,
+      "sha256": "08fd7545d13d2c7fb65ab691530a802dafefd638596501854f267d0fb13c39e7",
+      "license": "MIT (Three.js)",
+      "status": "reviewed",
+      "reason": "Bundled Three.js r170 and license"
+    },
+    {
+      "path": "dist/vendor/utils/BufferGeometryUtils.js",
+      "bytes": 31768,
+      "sha256": "c25b7930e570e9ec56173cd3b866ec8d2e10016630db3937efb439daf1cedbf6",
+      "license": "MIT (Three.js)",
+      "status": "reviewed",
+      "reason": "Bundled Three.js r170 and license"
+    },
+    {
+      "path": "docs/ASSET_LICENSE_AUDIT.zh-CN.md",
+      "bytes": 10536,
+      "sha256": "490633ae5f33b74d0194d72ddf3a02daca3e668ee1515620c5e3bdcef4eb3011",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "docs/camera/135mm-8m.png",
+      "bytes": 270738,
+      "sha256": "e8b14db686a1b2c6cf9a0867ea7a0d6f36bd61b6e6dd8c0a345d4f62bff5cea6",
+      "license": "Portrait and hair component licenses; see audit",
+      "status": "reviewed",
+      "reason": "Re-rendered male/no-hair camera UI or female without added hair"
+    },
+    {
+      "path": "docs/camera/16-9.png",
+      "bytes": 428278,
+      "sha256": "8b2e4de541f60afe52148bef29d09aad232b6a125248856d3f8cd1a4e65925c1",
+      "license": "Portrait and hair component licenses; see audit",
+      "status": "reviewed",
+      "reason": "Re-rendered male/no-hair camera UI or female without added hair"
+    },
+    {
+      "path": "docs/camera/35mm-5m.png",
+      "bytes": 271927,
+      "sha256": "6e221c26f692ee90fe643078cf05ec039979cd46920bc15507a0cd5b3442c590",
+      "license": "Portrait and hair component licenses; see audit",
+      "status": "reviewed",
+      "reason": "Re-rendered male/no-hair camera UI or female without added hair"
+    },
+    {
+      "path": "docs/camera/50mm-3m.png",
+      "bytes": 278008,
+      "sha256": "439e6b8d08f6b153d1309fe40aecb06f08496a782ae0d0c06cc884da45db1aec",
+      "license": "Portrait and hair component licenses; see audit",
+      "status": "reviewed",
+      "reason": "Re-rendered male/no-hair camera UI or female without added hair"
+    },
+    {
+      "path": "docs/camera/85mm-1.5m.png",
+      "bytes": 484325,
+      "sha256": "f4c62bd228a494acfe8653d6e6353a4fd69d54307b03860e006219898bf57aa0",
+      "license": "Portrait and hair component licenses; see audit",
+      "status": "reviewed",
+      "reason": "Re-rendered male/no-hair camera UI or female without added hair"
+    },
+    {
+      "path": "docs/camera/9-16.png",
+      "bytes": 419269,
+      "sha256": "fdc0696ac967fbf6a3c8bf22848eeddf5a2835b99a0a8a1af03bb3cc994d861a",
+      "license": "Portrait and hair component licenses; see audit",
+      "status": "reviewed",
+      "reason": "Re-rendered male/no-hair camera UI or female without added hair"
+    },
+    {
+      "path": "docs/camera/mobile.png",
+      "bytes": 628188,
+      "sha256": "74e4eb553a5c542701fcdea538b730751a957bf30cd1757a94f0cb0e7c9c6fdd",
+      "license": "Portrait and hair component licenses; see audit",
+      "status": "reviewed",
+      "reason": "Re-rendered male/no-hair camera UI or female without added hair"
+    },
+    {
+      "path": "docs/camera/studio-camera.png",
+      "bytes": 482249,
+      "sha256": "678aa70a6035d70c88c1604a77b4f4422bb116ccd6a7939e5db8a8ca4bbb33c7",
+      "license": "Portrait and hair component licenses; see audit",
+      "status": "reviewed",
+      "reason": "Re-rendered male/no-hair camera UI or female without added hair"
+    },
+    {
+      "path": "docs/CAMERA_GUIDE.zh-CN.md",
+      "bytes": 6616,
+      "sha256": "eb95b7fee2e05ef5651c50fbe3aa5d393ad60e86715e28f34b05e8b32ef2b1a7",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "docs/CAMERA_TEST_REPORT.zh-CN.md",
+      "bytes": 2616,
+      "sha256": "f302c4dd41e00c1dcd32f44318cd36b00f647c6d24f816a0ff9b276aea61a0df",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "docs/geometry-repair/after-female-neutral.png",
+      "bytes": 60258,
+      "sha256": "077694f286bef1a668e2ec1e9d7cf6b763239a2b16ffb4cf21b95fcc5b1bb64e",
+      "license": "CC-BY-NC-SA-4.0",
+      "status": "reviewed",
+      "reason": "patrix female adaptation; separately licensed"
+    },
+    {
+      "path": "docs/geometry-repair/after-female-none.png",
+      "bytes": 70505,
+      "sha256": "2aaceeb6423922027703ff179de6fbbfaaff154a7e5cd86912826cd8786b1a53",
+      "license": "CC-BY-NC-SA-4.0",
+      "status": "reviewed",
+      "reason": "patrix female adaptation; separately licensed"
+    },
+    {
+      "path": "docs/geometry-repair/after-female-normals.png",
+      "bytes": 72897,
+      "sha256": "cb9b88aeb5cb612df5e4b7fc53572f1a8268824625f10433402924bb5564d907",
+      "license": "CC-BY-NC-SA-4.0",
+      "status": "reviewed",
+      "reason": "patrix female adaptation; separately licensed"
+    },
+    {
+      "path": "docs/geometry-repair/after-female-wire.png",
+      "bytes": 118744,
+      "sha256": "f6ed490922d20f1f04f6b0c3d0f4586d328d9cdca4e5f9b169acba466daea2ff",
+      "license": "CC-BY-NC-SA-4.0",
+      "status": "reviewed",
+      "reason": "patrix female adaptation; separately licensed"
+    },
+    {
+      "path": "docs/geometry-repair/after-male-bob.png",
+      "bytes": 77940,
+      "sha256": "36f1445f10d85e60d530ae02561ef9223573aad269bcf2392fd7c1bfc0ab1ed9",
+      "license": "CC-BY-SA-3.0 distribution basis + male CC-BY-4.0 credit",
+      "status": "reviewed-official-default",
+      "reason": "Male hair adaptation; site-default interpretation disclosed"
+    },
+    {
+      "path": "docs/geometry-repair/after-male-combined.png",
+      "bytes": 61732,
+      "sha256": "eecc4a5326f0163cf7df29ba2ee99197873ef931445a660dbbd7441153905b05",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "docs/geometry-repair/after-male-curly.png",
+      "bytes": 89694,
+      "sha256": "a99fbd64679f55c063c5c5feb905c1d5dcc43bfed5a6432d61eea8dd657907b5",
+      "license": "CC-BY-SA-3.0 distribution basis + male CC-BY-4.0 credit",
+      "status": "reviewed-official-default",
+      "reason": "Male hair adaptation; site-default interpretation disclosed"
+    },
+    {
+      "path": "docs/geometry-repair/after-male-extended.png",
+      "bytes": 61249,
+      "sha256": "c28d7cd22916e60490e2dec846cbc16365d15cf0697bdbdaecc4b7bc2e0a4b16",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "docs/geometry-repair/after-male-fill-only.png",
+      "bytes": 64243,
+      "sha256": "488b3992518abe9385005fbe51a3cabba9994d260617d3b52525dd6c4b5a5e35",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "docs/geometry-repair/after-male-key-only.png",
+      "bytes": 101120,
+      "sha256": "97ef43bd01bef9732bf3cf9d024542bee3921cb61a7fbce995a611faf18e967e",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "docs/geometry-repair/after-male-neutral.png",
+      "bytes": 60899,
+      "sha256": "790c467c1d7591713de6ff5d26094e00026d7492e15142669694b889fbec79e3",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "docs/geometry-repair/after-male-none.png",
+      "bytes": 68308,
+      "sha256": "aa45cf4bdfad6ee06c713749244d1f21304c1f63eabc3a5a9c4748f9580be320",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "docs/geometry-repair/after-male-normals.png",
+      "bytes": 75847,
+      "sha256": "cbc1dbf979285bc04431b3b459b92c5bfb6819554ac3dfd43d1e4ae2443d8019",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "docs/geometry-repair/after-male-right-turn.png",
+      "bytes": 61272,
+      "sha256": "195ec7293ca2fb62c1e34c62fec4139792cc2816c78c4bdf7bb68668b6dd94d0",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "docs/geometry-repair/after-male-rim-only.png",
+      "bytes": 68320,
+      "sha256": "49b5c4840c47a9a1f43636d9200a4f1cb36da1c4ffba2341a2e6526b82c6c375",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "docs/geometry-repair/after-male-short.png",
+      "bytes": 78227,
+      "sha256": "9e983c54c6adaa6e7a8e32b8f79e3e013d23ed3d7e5aa5f54733285080a20d8d",
+      "license": "CC-BY-SA-3.0 distribution basis + male CC-BY-4.0 credit",
+      "status": "reviewed-official-default",
+      "reason": "Male hair adaptation; site-default interpretation disclosed"
+    },
+    {
+      "path": "docs/geometry-repair/after-male-turn.png",
+      "bytes": 60878,
+      "sha256": "558976ac6d96053bd0d76761d76db1d2370cbb5a9c7f17586e97d1e6ce687eb7",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "docs/geometry-repair/after-male-wire.png",
+      "bytes": 139463,
+      "sha256": "dd3e8dca668548e19aeabd2a8fe8d83f8fecf13c79a564f0035e60da6d79fb24",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "docs/geometry-repair/before-female-neutral.png",
+      "bytes": 60548,
+      "sha256": "b10ea875758d2699d3dc7611921437c91abc3be89e0896f139c2476ca8e32e6b",
+      "license": "CC-BY-NC-SA-4.0",
+      "status": "reviewed",
+      "reason": "patrix female adaptation; separately licensed"
+    },
+    {
+      "path": "docs/geometry-repair/before-male-neutral.png",
+      "bytes": 62156,
+      "sha256": "efba0feb280fee79d8bee94296e507f5d27ec16cc4c74a4d45bc4758ea30ca42",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "docs/geometry-repair/before-male-turn.png",
+      "bytes": 62686,
+      "sha256": "736b150becd1d3a8aad5c882efa6761533d22fc5736ed1e90ee00bf34979ee60",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "docs/geometry-repair/male-neck-shoulder-comparison.png",
+      "bytes": 198065,
+      "sha256": "72f339c8676a4ecc4a7d9c51757bae9bc51052c1a77710da690fa71820fb478d",
+      "license": "CC-BY-4.0",
+      "status": "reviewed",
+      "reason": "BlakkMato male portrait/beard/collider adaptation"
+    },
+    {
+      "path": "docs/GEOMETRY_REPAIR_REPORT.zh-CN.md",
+      "bytes": 10661,
+      "sha256": "c61804adec59a4334d02b14e9f0da63249712d5b85f54050cf04784ef9f7abf1",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "docs/LIGHTING_HANDBOOK.zh-CN.md",
+      "bytes": 20081,
+      "sha256": "cff4f764db8c2b0112ce19b2c27dd4cf38232503027fbde22a6d925f6bd011e3",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "docs/studio-preview.png",
+      "bytes": 511672,
+      "sha256": "18f03b4cf8c203f105ff35b0d3ab90bb692e00e7bf43835d495a60195301ecc3",
+      "license": "CC-BY-SA official-default-3.0 basis, with BlakkMato CC-BY-4.0 credit",
+      "status": "reviewed-official-default",
+      "reason": "Actual male portrait and hairstyle studio screenshot; no female composite artwork"
+    },
+    {
+      "path": "docs/USER_GUIDE.zh-CN.md",
+      "bytes": 19638,
+      "sha256": "3a7433222cd5493f25364d47a3194701a288948ea3b2ff8573c1754379b59c95",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "launch.mjs",
+      "bytes": 1857,
+      "sha256": "837f95a7f44719e3b08233adbeb5cabc795cde64dc4357bbd29d6f64a015acf9",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1221,
+      "sha256": "42df6280dc05db64c36707b7c0499a1d0ecb8eb47f622b57be6ffab3bdfa66ee",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "LICENSES/CC-BY-SA-3.0.txt",
+      "bytes": 22240,
+      "sha256": "3f941b3b89cf7b8370ceb83cc76d2120d471b58735d8ca60238a751a48d7f72f",
+      "license": "Notice or license text, not runtime code",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "LICENSES/HAIR-NOTICE.txt",
+      "bytes": 1907,
+      "sha256": "5cb7075dad1c1af3e37a4d9949ff5a0bcafcf8b0d548fb05e9cbdca108044621",
+      "license": "Notice or license text, not runtime code",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "package.json",
+      "bytes": 633,
+      "sha256": "cfdce902b71439dbe54186404a045f10549c25b6be3577ea7d2854f8780a346d",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "PACKAGE_STATUS.json",
+      "bytes": 520,
+      "sha256": "7ff6966513ddf185ced7056f02d0836124500f8e924869a580f01a060ab9c1f8",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "README.md",
+      "bytes": 9557,
+      "sha256": "40156eb6d54b1839d3dc5811a6df80a48ac76ff1d5fadec7396626fbd9f29330",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "RELEASE-STATUS.txt",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent release code, documentation or test evidence",
+      "bytes": 298,
+      "sha256": "4c89201060e67c4b96eac8afc55742c1e8e2316d496131f91723c1dff0955bc3"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "bytes": 2744,
+      "sha256": "913e7e3e8925074921ad3f8a5112186ff703d77cfa32a8080e872ca43e4b141b",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "scripts/build-windows.ps1",
+      "bytes": 1100,
+      "sha256": "e7bf831800abad528ca2fb3a0d5b5a70c95300fac378c8b4fc2ddb5ed6ea7f4d",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "scripts/package-release.py",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent release code, documentation or test evidence",
+      "bytes": 2354,
+      "sha256": "f800367f4b0754883d2e05d2ef700bf5f8d0a09e871e758114488d3c37637f78"
+    },
+    {
+      "path": "server.mjs",
+      "bytes": 2636,
+      "sha256": "731ec3a6a21a7ebfee1b5b081bd310d93d215624f4ec3c22dc20f3a1c750db47",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "Start-Lightfield.cmd",
+      "bytes": 353,
+      "sha256": "a35ccbf1f0a527b7ab1b200c428125560d3dc482f57044ed36748c5425590132",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "test/advice.test.mjs",
+      "bytes": 1391,
+      "sha256": "1a4fa8cbf03463f2ac54e49a92c7a1771637505814d1d9a937b027ff2b661fd8",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "test/anatomy.test.mjs",
+      "bytes": 4366,
+      "sha256": "c4d666a394d327890fddd9165819109b3dd6bab50e34133cdebcff1c7f4c344e",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "test/camera.test.mjs",
+      "bytes": 4227,
+      "sha256": "66156d8254a001f2271b1e3860c8f6241de8a37f52d051ae460b42e6c807c230",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "test/female.test.mjs",
+      "bytes": 2123,
+      "sha256": "2e0e8cfc59f3734fae6b3adcc21e85d6b80219dabb33abde6ae2eb7cd2d79435",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "test/hair-cuts.test.mjs",
+      "bytes": 2174,
+      "sha256": "4561776e83967604444c13cf660b3e366f8904d46e2b2776deed14e920d78e4c",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "test/hair-fibers.test.mjs",
+      "bytes": 1629,
+      "sha256": "674960b7d1fcd6c2af3b069cb27f248b7038dbabd8d3a90f8f404f6d595284a6",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "test/hair-preview-cache.test.mjs",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent release code, documentation or test evidence",
+      "bytes": 1177,
+      "sha256": "005b20bf51cba963109a4e78b25d6be1c5443b4a9a015b548554d86949fc8302"
+    },
+    {
+      "path": "test/head-collider.test.mjs",
+      "bytes": 1712,
+      "sha256": "c75067bdf500f10868f7ea6caef4be075993a3a1aea350f81eb628a3e182f175",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "test/image-rights.test.mjs",
+      "bytes": 1346,
+      "sha256": "f46236d34e9427b32bc07d8a2bec9ea6d88034d9faad954a72eac80f40271c55",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "test/lighting.test.mjs",
+      "bytes": 3038,
+      "sha256": "0eea81cac0ff9e117bd3f9f5f3a0b29c5d3e6649ecf08f821c14fec232d8341b",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "test/male.test.mjs",
+      "bytes": 2391,
+      "sha256": "4c255eb03164c49534b35e5bbcdbffbed90cdcb1584a3a39bf1ab96278b039f5",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "test/neck.test.mjs",
+      "bytes": 3598,
+      "sha256": "a10f940c76fbd4ad0c98563e48fc573570f18c6c67d005fa4a0209300feaae96",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "test/server.test.mjs",
+      "bytes": 2124,
+      "sha256": "9acb6010bd1e1e7b87d97ba09781bbb17a4c2288366258ce03fb477240f08820",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "test/studio-shadows.test.mjs",
+      "bytes": 1911,
+      "sha256": "1dbd8dd9ca1a30cc71746bd19cc815e8aa3489f7374dd66ccfb02b73a3699ba5",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "THIRD-PARTY.md",
+      "bytes": 5527,
+      "sha256": "1f040b7e896507a38ef13d7af1c8b59055640b5b1a7e824eb1c9ac50b4ae364c",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "tools/audit-beard.mjs",
+      "bytes": 4602,
+      "sha256": "f572e4ecb401c3e8fee86d8795ac951ea91bfeaf31a48e5d0eefade985bd6e61",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "tools/audit-hair.mjs",
+      "bytes": 7486,
+      "sha256": "830fdbdfdaccab8766c7b1c8f90a1d784506ff6e8e18f747656bbd2baace51f7",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "tools/audit-portraits.mjs",
+      "bytes": 2057,
+      "sha256": "0852d53c70dba5a1f6f1b04d1b5de79c4f66d8bb7f866c63b51b053b911e012b",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "tools/audit-privacy.mjs",
+      "bytes": 2062,
+      "sha256": "7ac35a2b9da89d075629237946d62331e3fac5394095c1d3993fe4456f9b2a22",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "tools/audit-release.mjs",
+      "bytes": 2448,
+      "sha256": "9039a95101ea830c45282e356e441c7834e9c9c9fc7e8dbcb6725a8fd483fbd9",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "tools/portrait-reference.json",
+      "bytes": 241,
+      "sha256": "0b63acdb845635c42a8b6c96fb728afcdaf3c99d98eb7a8e2ff5cc8ec9276e90",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "tools/posed-geometry.mjs",
+      "bytes": 1174,
+      "sha256": "28d517ca480268ceea067ea493d901de8259aef20d36ba712970dc330973a440",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "tools/read-portrait.mjs",
+      "bytes": 1863,
+      "sha256": "4bd325643726230ba7b0daae16937045d73079d1cc36d44242a5f454de62deea",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "windows/launcher-build.json",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent release code, documentation or test evidence",
+      "bytes": 212,
+      "sha256": "b8d9699aabe4fff0300177e758995dcbb1e34027fede096eb3741317a946de11"
+    },
+    {
+      "path": "windows/LightfieldLauncher.cs",
+      "bytes": 24084,
+      "sha256": "b90acd6f9d938455e0ff2cd1201c155ea5a4a3312410f879a696f39452ee9264",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    },
+    {
+      "path": "启动光场.cmd",
+      "bytes": 46,
+      "sha256": "5d6ee43fb5a72d7986dac88ebbd16f15419f7101b13f6104f02fbca081063520",
+      "license": "MIT",
+      "status": "reviewed",
+      "reason": "Independent software, documentation or test evidence"
+    }
+  ]
+}

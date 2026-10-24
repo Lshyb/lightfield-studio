@@ -1,0 +1,41 @@
+Hair Demo File
+
+------------------------------
+Credits:
+Daniel Bystedt. CC BY-SA license
+
+www.twitter.com/3dbystedt
+www.artstation.com/artist/dbystedt
+------------------------------
+
+Content:
+
+Cyberpunk hair
+This setup is intended to showcase the workflow of creating a hair setup in the modifier tab. It uses some vertex groups to control hair parameters. This can be useful for artist that are not familiar with node graphs, but gives less detailed control compared to to the geometry nodes setups.
+    
+Long hair
+This hairstyle uses two separate hair objects in order to separate the grooming in different parts. Look at the notes in the geometry nodes tab to get more insight about the hair setup. 
+
+Curly hair
+Look at the notes in the geometry nodes tab to get more insight about the hair setup.
+
+Braids hair
+Look at the notes in the geometry nodes tab to get more insight about the hair setup. 
+------------------------------
+
+Notes:
+
+When grooming, it is best to turn off all other hair collections in order to get a responsive grooming experience. You can do that with the little checkbox to the right of the collection in the outliner.
+    
+In order to groom a hair object, select it and then choose "Sculpt Mode" from the object interaction mode menu in the top left corner.
+
+When testing the nodes in the Geometry Nodes workspace (tab at the top of the UI), you can mute nodes witht the hotkey "M" to see the influence they have on the hairstyle.
+
+Hairstyles like braids and curls requires addition subdivision of the curves. Default is 1, but has been changed to 3 in Properties > Render Properties > Curves.
+
+Each hairstyle is attached to a growth mesh, which is just a single sided haircap. The growth mesh is separated in two mesh island. The hairs will interpolate based on which mesh island the guide hairs belong to. It also has a vertex group called "parting". This is used to move hairs closer to the parting line in order to avoid a "bald look" at the parting line.
+
+In Eevee, the best display mode of curves are Strip instead of Strand, which is default. This can be changed in Properties > Render Properties > Curves.
+
+The human haid normally has 90,000-150,000 hairs. The amount of hair has been kept less than that to keep the viewport and grooming running smoothly since there are multiple hairstyles in this file.
+

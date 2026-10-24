@@ -6,3 +6,11 @@ releases/
 *.log
 .DS_Store
 Thumbs.db
+
+outputs/
+work/
+*.blend
+*.blend1
+*.zip
+.env
+.env.*

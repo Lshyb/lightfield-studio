@@ -1,0 +1,4 @@
+LIGHTFIELD 1.1.0
+Source prepared for the approved v1.1.0 release. Actual publication status is recorded by GitHub Releases.
+Female hair previews are rendered and cached locally, never bundled as composite pictures.
+Independent code MIT; separately licensed artistic assets: see THIRD-PARTY.md.

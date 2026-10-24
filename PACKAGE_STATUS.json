@@ -1,0 +1,13 @@
+{
+  "version": "1.1.0",
+  "scope": "public-release",
+  "approval": "Release authorized after female-photo completion and verification",
+  "original_hair_retained": true,
+  "female_preview_photos": "generated and cached only on the local computer, not distributed as pre-composited images",
+  "tests": {
+    "passed": 40,
+    "failed": 0
+  },
+  "native_blender_projects": "not bundled; no claim that independent native work is fully validated",
+  "publication_status": "See the actual GitHub v1.1.0 Release"
+}

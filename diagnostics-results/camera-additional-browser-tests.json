@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "shutterPixelsIdentical": true,
+  "modelAndHairSwitches": [
+    "male/none",
+    "male/short",
+    "male/bob",
+    "male/curly",
+    "female/none",
+    "female/short",
+    "female/bob",
+    "female/curly"
+  ],
+  "posedDistance": true,
+  "mobileNoHorizontalOverflow": true,
+  "errors": []
+}

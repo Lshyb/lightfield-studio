@@ -8,17 +8,25 @@ test('offline distribution serves HTML, model and modules without relying on cwd
   t.after(() => new Promise(resolve => server.close(resolve)));
   const origin = `http://127.0.0.1:${server.address().port}`;
   const health = await fetch(origin + '/health.json');
-  assert.deepEqual(await health.json(), { app:'lightfield-studio', version:'1.0.0', offline:true });
+  assert.deepEqual(await health.json(), { app:'lightfield-studio', version:'1.1.0', offline:true });
   const home = await fetch(origin);
   assert.equal(home.status, 200); assert.match(await home.text(), /LIGHTFIELD/);
-  const model = await fetch(origin + '/assets/head.glb');
-  assert.equal(model.headers.get('content-type'), 'model/gltf-binary');
-  const modelData = Buffer.from(await model.arrayBuffer());
-  assert.equal(modelData.toString('ascii', 0, 4), 'glTF'); assert.equal(modelData.length, 404976);
-  for (const path of ['/app.js', '/vendor/three.module.js', '/vendor/loaders/GLTFLoader.js', '/vendor/utils/BufferGeometryUtils.js', '/vendor/controls/OrbitControls.js', '/assets/skin.jpg', '/assets/normal.jpg']) {
+  for(const subject of ['male','female']){
+    const model=await fetch(origin + `/assets/${subject}-portrait.glb`);
+    assert.equal(model.headers.get('content-type'),'model/gltf-binary');
+    const data=Buffer.from(await model.arrayBuffer());
+    assert.equal(data.toString('ascii',0,4),'glTF');assert.equal(data.readUInt32LE(8),data.length);
+  }
+  for (const path of ['/app.js','/male.js','/female.js','/portrait.js','/beard.js', '/vendor/three.module.js', '/vendor/loaders/GLTFLoader.js', '/vendor/utils/BufferGeometryUtils.js', '/vendor/controls/OrbitControls.js','/assets/male-beard.bin']) {
     const response = await fetch(origin + path); assert.equal(response.status, 200, path); await response.arrayBuffer();
   }
   const head = await fetch(origin, { method:'HEAD' }); assert.equal(head.status, 200); assert.equal(await head.text(), '');
+  for (const id of ['short', 'bob', 'curly']) {
+    const response = await fetch(origin + `/assets/hair/${id}.bin`);
+    assert.equal(response.status, 200);
+    const data = Buffer.from(await response.arrayBuffer());
+    assert.equal(data.toString('ascii', 0, 4), 'HFBR');
+  }
   assert.equal((await fetch(origin + '/missing')).status, 404);
   assert.equal((await fetch(origin, { method:'POST' })).status, 405);
   assert.equal((await fetch(origin + '/%00')).status, 400);

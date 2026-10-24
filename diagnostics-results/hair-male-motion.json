@@ -1,0 +1,7789 @@
+{
+  "subject": "male",
+  "checked": 9496602,
+  "penetrations": 0,
+  "poseCount": 27,
+  "styles": 3,
+  "swayCount": 6,
+  "clearanceTolerance": 0.001,
+  "peakSway": 0.010280588218970595,
+  "finalSway": 9.327036549388573e-18,
+  "results": [
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "style": "short",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 6833,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "style": "bob",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 21780,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0.036,
+        0,
+        0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        -0.036,
+        0,
+        -0.012
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        -0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0.036,
+        0
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "style": "curly",
+      "sway": [
+        0,
+        0,
+        -0.036
+      ],
+      "checked": 30008,
+      "penetrations": 0,
+      "examples": []
+    }
+  ]
+}

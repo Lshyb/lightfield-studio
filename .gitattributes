@@ -1,0 +1,2 @@
+# Preserve byte-pinned release assets and text identically on every OS.
+* -text

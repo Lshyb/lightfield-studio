@@ -15,8 +15,8 @@ using System.Windows.Forms;
 [assembly: AssemblyDescription("Local offline launcher for LIGHTFIELD portrait lighting studio")]
 [assembly: AssemblyCompany("LIGHTFIELD contributors")]
 [assembly: AssemblyProduct("LIGHTFIELD")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.1.0.0")]
+[assembly: AssemblyFileVersion("1.1.0.0")]
 
 namespace Lightfield
 {
@@ -48,7 +48,7 @@ namespace Lightfield
                 using (StudioServer server = new StudioServer(Path.Combine(root, "dist")))
                 {
                     server.Start(port, explicitPort ? 1 : 10);
-                    Console.WriteLine("LIGHTFIELD 1.0.0: " + server.Address);
+                    Console.WriteLine("LIGHTFIELD 1.1.0: " + server.Address);
                     if (headless)
                     {
                         using (ManualResetEvent stopped = new ManualResetEvent(false))
@@ -278,7 +278,7 @@ namespace Lightfield
                         string path = DecodePath(first[1]);
                         if (path == "/health.json")
                         {
-                            byte[] health = Encoding.UTF8.GetBytes("{\"app\":\"lightfield-studio\",\"version\":\"1.0.0\",\"offline\":true}");
+                            byte[] health = Encoding.UTF8.GetBytes("{\"app\":\"lightfield-studio\",\"version\":\"1.1.0\",\"offline\":true}");
                             WriteHeaders(stream, 200, "application/json; charset=utf-8", health.Length, null);
                             if (!head) stream.Write(health, 0, health.Length);
                             return;

@@ -1,0 +1,280 @@
+{
+  "checked": 1609011,
+  "penetrations": 0,
+  "tolerance": 0.001,
+  "strands": 22000,
+  "rayCandidates": 1,
+  "rayFalsePositives": 1,
+  "results": [
+    {
+      "pose": [
+        -60,
+        -15,
+        -15
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        0
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        -15,
+        15
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        -15
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        0
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        0,
+        15
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        -15
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        0
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        -60,
+        15,
+        15
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        -15
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        0
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        -15,
+        15
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        -15
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        0
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        0,
+        15
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        -15
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        0
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        0,
+        15,
+        15
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        -15
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        0
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        -15,
+        15
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        -15
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        0
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        0,
+        15
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        -15
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        0
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    },
+    {
+      "pose": [
+        60,
+        15,
+        15
+      ],
+      "checked": 59593,
+      "penetrations": 0,
+      "examples": []
+    }
+  ]
+}

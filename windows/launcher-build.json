@@ -1,0 +1,6 @@
+{
+  "bytes": 19968,
+  "sha256": "69f1730ba10033912fdc1a842f817e3505e8a8e2f717c9cc315e8798eb6816d1",
+  "source": "windows/LightfieldLauncher.cs",
+  "build": "Windows x64 .NET Framework, debug data disabled"
+}

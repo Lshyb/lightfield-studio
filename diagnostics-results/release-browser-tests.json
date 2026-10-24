@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "checks": [
+    "23 focal presets: fixed position and model scale",
+    "12 ratios: actual preview aspect and unchanged position",
+    "custom 17:13 and orientation swap",
+    "4 references × 27 distances, true Euclidean distance",
+    "fixed framing moves camera proportional to focal length",
+    "25 shutter inputs, invalid rejection, explicit unavailable blur",
+    "full reload preserves all camera and framing settings",
+    "JPEG 16:9: 1500×844",
+    "JPEG 9:16: 844×1500"
+  ],
+  "errors": [],
+  "externalRequests": []
+}

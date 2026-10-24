@@ -1,0 +1,7 @@
+{
+  "affectedPixels": 486212,
+  "totalPixels": 16777216,
+  "scalpReliefRetained": 0.05,
+  "unchangedOutsideMask": true,
+  "reason": "Source normal atlas contains combed hair relief after hair cards were removed."
+}
